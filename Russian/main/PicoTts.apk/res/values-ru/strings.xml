@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="installed">Установлено</string>
-    <string name="not_installed">Не установлено</string>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="installed">Установлено</string>
+  <string name="not_installed">Не установлено</string>
 </resources>
