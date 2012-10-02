@@ -1,13 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_name">Синхронизация Xiaomi</string>
-    <string name="sync_item_sms_title">Синхронизация сообщений</string>	
-    <string name="sync_item_sms_summary">Синхронизация текстовых сообщений вашего телефона с аккаунтом Xiaomi</string>	
-    <string name="sub_sync_item_sms_title_wifi_only">MMC только по Wi-Fi</string>	
-    <string name="sub_sync_item_sms_summary">Рекомендуется включить, иначе вы потратите много трафика</string>	
-    <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>	
-    <string name="pref_title_sync_display_photo_on_wifi_only">Фото только по Wi-Fi</string>	
-    <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, иначе вы потратите много трафика</string>	
-    <string name="find_device">Поиск устройств</string>	
-    <string name="find_device_stop_noise">"Нажмите \"OK\" для выключения звука"</string>	
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="app_name">Синхронизация Xiaomi</string>
+  <string name="find_device">Поиск устройств</string>
+  <string name="find_device_stop_noise">"Нажмите \"OK\" для выключения звука"</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, иначе вы потратите много трафика</string>
+  <string name="pref_title_sync_contacts_title">Синхронизация контактов</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Фото только по Wi-Fi</string>
+  <string name="sub_sync_item_sms_summary">Рекомендуется включить, иначе вы потратите много трафика</string>
+  <string name="sub_sync_item_sms_title_wifi_only">MMC только по Wi-Fi</string>
+  <string name="sync_item_sms_summary">Синхронизация текстовых сообщений вашего телефона с аккаунтом Xiaomi</string>
+  <string name="sync_item_sms_title">Синхронизация сообщений</string>
 </resources>
