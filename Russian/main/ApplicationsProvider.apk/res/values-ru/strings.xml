@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="app_label">Поставщик приложений для поиска</string>
-    <string name="search_label">Приложения</string>
-    <string name="application_desc">Приложение</string>
-    <string name="settings_description">Названия установленных приложений</string>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="app_label">Поставщик приложений для поиска</string>
+  <string name="application_desc">Приложение</string>
+  <string name="search_label">Приложения</string>
+  <string name="settings_description">Названия установленных приложений</string>
 </resources>
