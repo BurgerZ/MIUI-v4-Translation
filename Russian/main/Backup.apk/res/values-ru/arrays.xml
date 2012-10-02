@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Параметры WLAN</item>
+        <item>Все приложения</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Браузер</item>
+        <item>Файл менеджер</item>
+        <item>Галерея</item>
+        <item>Разрешения</item>
+        <item>Камера</item>
+        <item>Монитор</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Контакты</item>
+        <item>Журнал вызовов</item>
+        <item>Сообщения</item>
+        <item>Мультимедиа cообщения</item>
+        <item>Настройки системы</item>
+        <item>Параметры WLAN</item>
+        <item>Рабочий стол</item>
+        <item>Будильник(и)</item>
+        <item>Заметки</item>
+        <item>Настройки фильтра</item>
+        <item>Аккаунт</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>(Данные)</item>
+        <item>(Приложение)</item>
+        <item>(Приложение и Данные)</item>
+	</string-array>	
+    <string-array name="cloud_data_label">
+        <item>Контакты</item>
+        <item>Журнал вызовов</item>
+        <item>Сообщения</item>
+        <item>Параметры WLAN</item>
+        <item>Заметки</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Контакты</item>
+        <item>Параметры WLAN</item>
+        <item>Заметки</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Журнал вызовов</item>
+        <item>Сообщения</item>
+    </string-array>
+</resources>

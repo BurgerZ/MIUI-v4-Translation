@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>-->
+<resources>
+    <string-array name="task_status">
+        <item>Обработка</item>
+        <item>Ожидание</item>
+        <item>Отменен</item>
+        <item>Ошибка</item>
+        <item>Завершен</item>
+        <item>Пауза</item>
+    </string-array>
+</resources>
