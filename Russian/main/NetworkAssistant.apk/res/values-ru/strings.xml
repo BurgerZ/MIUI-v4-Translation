@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="adjust_traffic_auto_adjust_hint">Система постоянно запрашивает и регулирует данные от операторов. Нужно настроить информацию от операторов</string>
   <string name="adjust_traffic_auto_adjust_open_hint">Автонастройка включена и будет автоматически регулировать данные трафика</string>
   <string name="adjust_traffic_auto_adjust_title">Автонастройка трафика</string>
@@ -38,6 +36,7 @@
   <string name="carrier_query_number_carrier">Оператор</string>
   <string name="carrier_query_number_location">Местоположение</string>
   <string name="carrier_query_number_title">Настройка оператора и номера поддержки</string>
+  <string name="carrier_settings_button">Настройки оператора</string>
   <string name="close_txt">Да</string>
   <string name="control_app_internet">Использование сети приложениями</string>
   <string name="current_warning_value">Предупреждение: %s</string>
@@ -74,11 +73,18 @@
   <string name="menu_refresh">Обновить</string>
   <string name="menu_settings">Параметры</string>
   <string name="menu_sort">Сортировка</string>
+  <string name="menu_sort_by_all_traffic">По трафику</string>
+  <string name="menu_sort_by_disabled">По заблокированному ПО</string>
+  <string name="menu_sort_by_mobile_traffic">По 2G/3G трафику</string>
+  <string name="menu_sort_by_name">По имени</string>
   <string name="menu_traffic_adjust">Регулировка трафика</string>
-  <string name="menu_traffic_settings">Лимит трафика</string>
+  <string name="menu_traffic_settings">Тарифный план</string>
   <string name="mobile_traffic">2G/3G: %s</string>
   <string name="mobile_type">2G/3G</string>
   <string name="month_traffic_settings_title">Ежемесячный трафик</string>
+  <string name="notify_carrier_settings_title">Вы не настроили поставщика услуг связи. Настроить сейчас?</string>
+  <string name="notify_traffic_settings_cancel_hint">Уведомления и контроль трафика будут отключены. Выйти сейчас?</string>
+  <string name="notify_traffic_settings_title">Вы не настроили ваш тарифный план. Настроить сейчас?</string>
   <string name="plate_traffic_already_used">Использовано (%s)</string>
   <string name="plate_traffic_exceed">Превышено (%s)</string>
   <string name="plate_traffic_remain">Осталось (%s)</string>
@@ -96,7 +102,7 @@
   <string name="pref_netwotk_speed_internal_summary">Обновлять скорость сети каждые %d сек</string>
   <string name="pref_traffic_adjust_title">Регулировка трафика</string>
   <string name="pref_traffic_daily_limit_settings">Настройки ежедневного лимита</string>
-  <string name="pref_traffic_settings">Лимит трафика</string>
+  <string name="pref_traffic_settings">Тарифный план</string>
   <string name="process_kernel_label">Андроид</string>
   <string name="retry">Повторить</string>
   <string name="save">Сохранить</string>
