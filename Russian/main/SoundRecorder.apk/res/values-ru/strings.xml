@@ -51,4 +51,5 @@
   <string name="second">%d сек.</string>
   <string name="storage_is_full">Память заполнена</string>
   <string formatted="false" name="timer_format">%02d:%02d</string>
+  <string name="unknown_caller">Неизвестный вызов</string>
 </resources>
