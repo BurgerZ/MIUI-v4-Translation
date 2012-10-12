@@ -524,7 +524,7 @@
   <string name="missed_call_notify_thrice_miui">Три раза</string>
   <string name="missed_call_notify_times_summary_miui">Напоминать каждые 5 минут</string>
   <string name="missed_call_notify_times_title_miui">Напоминание о пропущенных вызовах</string>
-  <string name="missed_call_notify_twice">Два раза</string>
+  <string name="missed_call_notify_twice_miui">Два раза</string>
   <string name="mmiCancelled">Код MMI отменен</string>
   <string name="mmiStarted">Код MMI запущен</string>
   <string name="mobile_networks">Настройки сотовой сети</string>
