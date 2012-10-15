@@ -504,9 +504,9 @@
   <string name="remind_btn_sync_now">Синхронизировать</string>
   <string name="removePhoto">Удалить фото</string>
   <string name="ringLabelsGroup">Рингтоны</string>
-  <string name="save_photo_progress">Фото сохраняется...</string>
+  <string name="save_photo_progress">Сохранение фото...</string>
   <string name="savingDisplayGroups">Варианты отображения сохраняются...</string>
-  <string name="scan_duplicate">Поиск одинаковых данных, подождите... </string>
+  <string name="scan_duplicate">Поиск одинаковых контактов, подождите...</string>
   <string name="scan_duplicate_message">Абсолютно одинаковых контактов (%1$d)</string>
   <string name="scan_merge">Поиск возможных одинаковых контактов, подождите...</string>
   <string name="scanning_sdcard_failed_message">Ошибка сканирования SD-карты: %s</string>
@@ -570,8 +570,8 @@
   <string name="sms_work_pager">SMS:рабоч. пейдж.</string>
   <string name="social_widget_label">Контакт</string>
   <string name="social_widget_loading">Загрузка…</string>
-  <string name="splitConfirmation">Действительно разделить этот контакт?</string>
-  <string name="splitConfirmation_title">Разделение данных</string>
+  <string name="splitConfirmation">Вы хотите разделить контакт?</string>
+  <string name="splitConfirmation_title">Разделение контакта</string>
   <string name="starredList">Помеченные</string>
   <string name="status_available">На месте</string>
   <string name="status_away">Отсутствует</string>
