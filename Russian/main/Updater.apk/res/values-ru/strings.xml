@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="about_device">Сведения о системе</string>
   <string name="active_xiaomi_account">Актив</string>
   <string name="active_xiaomi_account_msg">"Перейдите на форум MIUI для активации аккаунта xiaomi:
@@ -62,7 +60,6 @@
   <string name="md5_check_cancelled">MD5 проверка прервана</string>
   <string name="mione_update_fail_description">Пожалуйста, обновите снова</string>
   <string name="mione_update_fail_title">Не удалось обновить</string>
-  <string name="mione_update_success_description">Переключить систему</string>
   <string name="mione_update_success_title">Обновление завершено</string>
   <string name="monthly_build">Ежемесячная сборка</string>
   <string name="move_data_to_sdcard_not_enough_space_message">%dM данных необходимо перенести, но на данный момент нет свободного места для SD-карте.</string>

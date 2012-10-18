@@ -662,7 +662,8 @@
   <string name="pick_outgoing_call_phone_type">Исходящий вызов</string>
   <string name="pick_outgoing_sip_phone">Аккаунт для интернет-вызовов:</string>
   <string name="pin2_changed">PIN2 успешно изменен</string>
-  <string name="pin2_changed_miui">PIN2 изменен успешно</string>
+  <string name="pin2_changed_miui">PIN2 успешно изменен</string>
+  <string name="pin2_invalid_or_name_is_too_long">FDN не обновлен: вы ввели неверный PIN или имя слишком длинное.</string>
   <string name="pin2_invalid">Номер ограниченного набора не обновлен: вы ввели неверный PIN-код.</string>
   <string name="pin2_lock_warning_miui">"
 Функционал, касающийся PIN2, будет заблокирован при неудачной попытке!"</string>

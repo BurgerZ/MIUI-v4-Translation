@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="VideoView_error_button">OK</string>
   <string name="VideoView_error_text_invalid_progressive_playback">Извините, этот видео поток не поддерживается данным устройством</string>
   <string name="VideoView_error_text_unknown">Извините, это видео не может быть воспроизведено</string>
@@ -46,4 +44,5 @@
   <string name="video_info_length_label">Длительность:</string>
   <string name="video_info_resolution_label">Разрешение:</string>
   <string name="video_info_video_coding_label">Видео кодек: </string>
+  <string name="vp_VideoView_error_network_not_available">Сеть недоступна</string>
 </resources>
