@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="add_alarm">Добавить будильник</string>
   <string name="alarm_alert_alert_silenced">Будильник звонил %d мин.</string>
   <string name="alarm_alert_dismiss_text">Выключить</string>
@@ -21,7 +19,10 @@
   <string name="alarm_klaxon_service_desc">Служба воспроизведения сигналов в Часах.</string>
   <string name="alarm_list_title">Будильник</string>
   <string name="alarm_notify_snooze_label">%s (отложено)</string>
-  <string name="alarm_notify_snooze_text">Будильник зазвонит в %s. Отменить?</string>
+  <string name="alarm_notify_snooze_text">Нажмите для отмены %s.</string> 	
+  <string name="snooze_confirm_message">Будильник был отложен,%s отложить снова.\nВы также можете выключить данный будильник.</string>	
+  <string name="snooze_confirm_ok">Отложить</string>	
+  <string name="snooze_confirm_cancel">Выключить</string>
   <string name="alarm_notify_text">Нажмите, чтобы прервать или отключить.</string>
   <string name="alarm_repeat">Дни недели</string>
   <string name="alarm_settings">Настройки будильника</string>
