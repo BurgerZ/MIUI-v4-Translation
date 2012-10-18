@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="account_default">Телефон</string>
   <string name="account_phone">Только телефон, без синхронизации</string>
   <string name="account_sim">Только SIM</string>
@@ -638,4 +636,14 @@
   <string name="websiteLabelsGroup">Веб-сайт</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Удалить все записи</string>
+  <string name="option_view_contact">Показать</string>	
+  <string name="option_edit_contact">Изменить</string>	
+  <string name="option_delete_contact">Удалить</string>	
+  <string name="option_send_to_desktop">На рабочий стол</string>	
+  <string name="option_send_to_others">Отправить</string>	
+  <string name="option_not_star">Удалить из избранного</string>	
+  <string name="option_not_in_group">Удалить из группы</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" содержит информацию из нескольких аккаунтов. Информация из аккаунтов с правами только чтения будет скрыта в списке контактов, но не удалена.</string>
+  <string name="multipleContactDeleteConfirmationDetail">Удаление \"%s\" приведет к удалению информации из нескольких аккаунтов.</string>	
+  <string name="deleteConfirmationDetail">\"%s\" будет удален.</string>	 
 </resources>
