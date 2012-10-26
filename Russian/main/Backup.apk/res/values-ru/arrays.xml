@@ -11,6 +11,7 @@
         <item>Разрешения</item>
         <item>Камера</item>
         <item>Монитор</item>
+        <item>Погода</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Контакты</item>
