@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="activity_not_found">Приложение не установлено на вашем телефоне!</string>
   <string name="application_name">MIUI-ланчер</string>
   <string name="buffering">Буферизация...</string>
@@ -28,6 +26,7 @@
   <string name="failed_to_drop_widget_invalid">Добавляемый виджет является недопустимым</string>
   <string name="failed_to_drop_widget_nospace">На экране не хватает места</string>
   <string name="folder_name">Папка</string>
+  <string name="gadget_clear_button_label">Закрыть задачи</string>
   <string name="gadget_clock_12_label">Часы 1x2</string>
   <string name="gadget_clock_22_label">Часы 2x2</string>
   <string name="gadget_clock_24_label">Часы 2x4</string>

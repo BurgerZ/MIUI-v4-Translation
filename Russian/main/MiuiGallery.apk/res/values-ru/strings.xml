@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="Import">Импорт</string>
   <string name="account_not_login">Вы можете войти в ваш аккаунт Xiaomi и синхронизировать ваше облако. Это автоматически загрузит ваши локальные фотографии в облако.</string>
   <string name="activity_not_found">Действие не поддерживается ни в одном приложении.</string>
@@ -184,6 +182,7 @@
   <string name="no_storage_title">Нет хранилища</string>
   <string name="no_such_item">Элемент не найден.</string>
   <string name="no_thumbnail">Нет миниатюры</string>
+  <string name="none_picture">Нет фотографий в Галерее</string>  
   <string name="not_auto_create_recent_album">Ручное добавление альбомов в избранное</string>
   <string name="only_upload_in_charging">Изображения загружаются только при подключенном зарядном устройстве; подключите зарядное устройство.</string>
   <string name="open_map">Открыть карту</string>

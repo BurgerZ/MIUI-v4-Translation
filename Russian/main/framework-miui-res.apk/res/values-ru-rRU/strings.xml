@@ -336,6 +336,7 @@
   <string name="lunar_zheng">1</string>
   <string name="miui_copyright_title">Авторское право</string>
   <string name="miui_privacy_policy_title">Политика конфиденциальности</string>
+  <string name="miui_user_manual_title">Руководство пользователя</string>
   <string name="miui_user_agreement_title">Соглашение пользователя</string>
   <string name="month_of_april">Апр</string>
   <string name="month_of_august">Авг</string>
@@ -367,6 +368,8 @@
   <string name="perm_activate_dspt">Отправить СМС для активации служб Xiaomi</string>
   <string name="perm_activate_lab">Активация сервиса Xiaomi</string>
   <string name="perm_auto_backup">Автобэкап</string>
+  <string name="perm_send_push_lab">Посылать push-сообщения</string>	
+  <string name="perm_send_push_dspt">Позволяет отправлять Xiaomi push-сообщения</string>  
   <string name="perm_get_user_info_dspt">Получить подробную информацию об аккаунте Xiaomi</string>
   <string name="perm_get_user_info_lab">Получить информацию об аккаунте Xiaomi</string>
   <string name="perm_tigger_toggle_dspt">Позволяет приложениям управлять переключателями в статусбаре</string>
@@ -448,4 +451,8 @@
   <string name="winter_begins">Зима</string>
   <string name="winter_solstice">Зимнее солнцестояние</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="permlab_accessNote">Доступ к заметкам</string>	
+  <string name="permdesc_accessNote">Позволяет приложению читать и изменять заметки на вашем телефоне. Вредоносные программы могут использовать это для отправки ваших заметок другим людям или для их удаления.</string>			
+  <string name="memory_clear_result">Успешно освобождено %1$s памяти,\nТекущая свободная память %2$s</string>	
+  <string name="memory_clear_nothing_result">Нет памяти для очистки</string>  
 </resources>
