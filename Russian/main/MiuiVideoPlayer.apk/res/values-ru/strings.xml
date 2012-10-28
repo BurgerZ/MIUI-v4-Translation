@@ -44,5 +44,9 @@
   <string name="video_info_length_label">Длительность:</string>
   <string name="video_info_resolution_label">Разрешение:</string>
   <string name="video_info_video_coding_label">Видео кодек: </string>
+  <string name="vp_VideoView_error_button">OK</string>
   <string name="vp_VideoView_error_network_not_available">Сеть недоступна</string>
+  <string name="vp_VideoView_error_text_invalid_progressive_playback">Извините, но этот формат видео невозможно проиграть на этом устройстве</string>
+  <string name="vp_VideoView_error_text_unknown">Извините, но этот формат видео невозможно проиграть на этом устройстве</string>
+  <string name="vp_VideoView_error_title">Ошибка проигрывания!</string>
 </resources>
