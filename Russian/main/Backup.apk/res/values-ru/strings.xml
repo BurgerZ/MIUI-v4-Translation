@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="account_login">Вход в систему</string>
   <string name="account_summary">Резервное копирование учётных записей (Gmail, электронной почты и Xiaomi)</string>
   <string name="already_enable_encrypt">Шифрование включено</string>

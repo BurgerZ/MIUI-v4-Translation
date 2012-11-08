@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="accessibility_add_attendee">Добавить участника</string>
   <string name="accessibility_add_reminder">Добавить напоминание</string>
   <string name="accessibility_all_day">Событие на целый день</string>
@@ -94,6 +96,8 @@
   <string name="hint_description">Описание мероприятия</string>
   <string name="hint_what">Название мероприятия</string>
   <string name="hint_where">Место мероприятия</string>
+  <string name="jump_date">Перейти</string>
+  <string name="jump_date_full">Перейти к дате</string>
   <string name="loading">Загрузка…</string>
   <string name="local_calendar_display_name">Локальный календарь</string>
   <string name="local_owner_account_name">Локальная учетная запись</string>
@@ -189,6 +193,4 @@
   <string name="where_label">Где</string>
   <string name="yearly">Ежегодно (%s)</string>
   <string name="yearly_plain">Ежегодно</string>
-  <string name="jump_date">Перейти</string>
-  <string name="jump_date_full">Перейти к дате</string>
 </resources>

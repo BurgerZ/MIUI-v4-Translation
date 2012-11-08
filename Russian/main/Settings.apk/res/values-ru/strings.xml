@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="about_settings">О телефоне</string>
   <string name="about_settings_summary">Просмотр юридической информации, состояния планшетного ПК и версии ПО</string>
   <string name="ac_enable_title">Включите управление доступом</string>
@@ -1682,6 +1684,7 @@
   <string name="volume_system_description">Громкость системы, затвор камеры, локскрин и другие системные уведомления</string>
   <string name="volume_voice_description">Громкость разговора</string>
   <string name="vpn_cancel">Отмена</string>
+  <string name="vpn_configure">Конфигурация</string>
   <string name="vpn_connect">Подключиться</string>
   <string name="vpn_connect_to">Подключиться к сети %s</string>
   <string name="vpn_create">Добавить сеть VPN</string>
@@ -1704,10 +1707,12 @@
   <string name="vpn_not_used">(не используется)</string>
   <string name="vpn_password">Пароль</string>
   <string name="vpn_routes">Маршруты пересылки (например, 10.0.0.0/8)</string>
+  <string name="vpn_safe">Безопасность</string>
   <string name="vpn_save">Сохранить</string>
   <string name="vpn_save_login">Сохранить учетные данные</string>
   <string name="vpn_search_domains">Домены для поиска DNS</string>
   <string name="vpn_server">Адрес сервера</string>
+  <string name="vpn_settings_password">Защита паролем VPN</string>
   <string name="vpn_settings_title">VPN</string>
   <string name="vpn_show_options">Показать расширенные параметры</string>
   <string name="vpn_title">Настройки VPN</string>
@@ -1943,7 +1948,4 @@
   <string name="zone_auto_summaryOn">Использование часового пояса сети</string>
   <string name="zone_list_menu_sort_alphabetically">Упорядочить по алфавиту</string>
   <string name="zone_list_menu_sort_by_timezone">Упорядочить по часовому поясу</string>
-  <string name="vpn_settings_password">Защита паролем VPN</string>	
-  <string name="vpn_safe">Безопасность</string>	
-  <string name="vpn_configure">Конфигурация</string>  
 </resources>
