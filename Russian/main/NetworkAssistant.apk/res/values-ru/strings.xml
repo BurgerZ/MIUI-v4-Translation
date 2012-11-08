@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="adjust_traffic_auto_adjust_hint">Система постоянно запрашивает и регулирует данные от операторов. Нужно настроить информацию от операторов</string>
   <string name="adjust_traffic_auto_adjust_open_hint">Автонастройка включена и будет автоматически регулировать данные трафика</string>
   <string name="adjust_traffic_auto_adjust_title">Автонастройка трафика</string>
