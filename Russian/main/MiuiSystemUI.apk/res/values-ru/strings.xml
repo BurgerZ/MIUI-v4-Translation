@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="accessibility_airplane_mode">В самолете.</string>
   <string name="accessibility_back">Назад</string>
   <string name="accessibility_battery_full">АКБ заряжена.</string>
@@ -279,11 +281,11 @@ d MMMM yyyy"</string>
   <string name="usb_mode_dont_ask">Запомнить мой выбор</string>
   <string name="usb_mode_mount_storage_title">Подключить USB накопитель?</string>
   <string name="usb_mode_notification">USB накопитель</string>
-  <string name="usb_mtp_text">Файлы</string>	
-  <string name="usb_notification">USB подключено</string>	
-  <string name="usb_notification_mtp_info">Доступ к файлам через подключение к компьютеру</string>	
+  <string name="usb_mtp_text">Файлы</string>
+  <string name="usb_notification">USB подключено</string>
+  <string name="usb_notification_mtp_info">Доступ к файлам через подключение к компьютеру</string>
   <string name="usb_notification_mtp_problem">Помощь &gt;</string>
-  <string name="usb_notification_ptp_info">Доступ к фотографиям через подключение к компьютеру</string>  
+  <string name="usb_notification_ptp_info">Доступ к фотографиям через подключение к компьютеру</string>
   <string name="usb_preference_title">Настройки передачи файлов через USB</string>
   <string name="usb_ptp_text">Фотографии</string>
   <string name="usb_storage_error_message">Проблема с накопителем USB.</string>

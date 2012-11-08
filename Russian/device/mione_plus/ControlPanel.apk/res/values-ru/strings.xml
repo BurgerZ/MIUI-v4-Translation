@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="accessibility_settings">Спец. возможности</string>
   <string name="accessibility_settings_summary" />
   <string name="advanced_tab">Расширенные</string>

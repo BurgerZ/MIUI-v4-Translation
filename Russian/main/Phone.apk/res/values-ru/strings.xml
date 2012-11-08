@@ -663,8 +663,8 @@
   <string name="pick_outgoing_sip_phone">Аккаунт для интернет-вызовов:</string>
   <string name="pin2_changed">PIN2 успешно изменен</string>
   <string name="pin2_changed_miui">PIN2 успешно изменен</string>
-  <string name="pin2_invalid_or_name_is_too_long">FDN не обновлен: вы ввели неверный PIN или имя слишком длинное.</string>
   <string name="pin2_invalid">Номер ограниченного набора не обновлен: вы ввели неверный PIN-код.</string>
+  <string name="pin2_invalid_or_name_is_too_long">FDN не обновлен: вы ввели неверный PIN или имя слишком длинное.</string>
   <string name="pin2_lock_warning_miui">"
 Функционал, касающийся PIN2, будет заблокирован при неудачной попытке!"</string>
   <string name="pin2_locked_message_miui">Неверный PIN2, функционал, касающийся PIN2, заблокирован. Сбросьте PIN2 введя PUK2.</string>
@@ -875,11 +875,11 @@ SIM карта будет заблокирована навсегда при н�
   <string name="sum_select_automatically">Автоматически выбирать предпочтительную сеть</string>
   <string name="sum_select_automatically_option_miui">Автоматический выбор предпочитаемой сети, %s</string>
   <string name="sum_show_caller_id">Номер, отображающийся при исходящих вызовах</string>
-  <string name="sum_voicemail_choose_provider">Выберите службу голосовой почты</string>	
-    <string name="t9_indexing_method_title_miui">Настройки поиска T9</string>	
-    <string name="t9_indexing_rebuilding_message">Обновление индексов T9\u2026</string>	
-    <string name="t9_indexing_method_pinyin">PinYin</string>	
-    <string name="t9_indexing_method_zhuyin">ZhuYin</string>
+  <string name="sum_voicemail_choose_provider">Выберите службу голосовой почты</string>
+  <string name="t9_indexing_method_pinyin">PinYin</string>
+  <string name="t9_indexing_method_title_miui">Настройки поиска T9</string>
+  <string name="t9_indexing_method_zhuyin">ZhuYin</string>
+  <string name="t9_indexing_rebuilding_message">Обновление индексов T9\u2026</string>
   <string name="technology_news_disable">Новости технологий отключены</string>
   <string name="technology_news_enable">Новости технологий включены</string>
   <string name="telocation_setting_miui">Местоположение</string>

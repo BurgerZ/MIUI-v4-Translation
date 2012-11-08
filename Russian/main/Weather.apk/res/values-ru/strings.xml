@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="act_city_find_gps_error">Ошибка определения местоположения. Пожалуйста, выберите город вручную.</string>
   <string name="act_find_city_hint">Поиск по 2,400 городов(Китай)</string>
   <string name="act_find_city_hot_title">Популярные города</string>
@@ -9,8 +11,8 @@
   <string name="act_set_city_find_side_error">Ошибка позиционирования</string>
   <string name="act_set_city_find_side_on">Включить</string>
   <string name="act_set_city_re_find_side">Поиск местоположения...</string>
-  <string name="act_weather_cycle_update">Обновление...</string>
   <string name="act_weather_cycle_low_temp">холодно</string>
+  <string name="act_weather_cycle_update">Обновление...</string>
   <string name="act_weather_main_data_null">Нет данных о погоде, нажмите для обновления</string>
   <string name="act_weather_range_select">Пожалуйста, выберите город</string>
   <string name="act_weather_range_title">Ближайшие</string>
