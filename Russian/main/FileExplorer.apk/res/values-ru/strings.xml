@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="added_favorite">Добавлено в избранное</string>
   <string name="adding_upload_tasks">Добавление задач загрузки</string>
   <string name="app_name">Файлы</string>
@@ -215,8 +213,8 @@ pan.xiaomi.com на вашем компьютере"</string>
   <string name="toast_file_not_can_read">Этот тип файла не поддерживается</string>
   <string name="trash_box_capacity">Объем корзины: %1$s</string>
   <string name="trash_box_link">Посетите pan.xiaomi.com для очистки корзины</string>
-  <string name="trash_box_message1">"Вы можете удалить ненужные файлы 
-  <string name="trash_box_message2">"Вы можете удалить не нужные файлы или очистить корзину для освобождения места"</string>
+  <string name="trash_box_message1">"Вы можете удалить ненужные файлы для освобождения места"</string>
+  <string name="trash_box_message2">"Вы можете удалить ненужные файлы или очистить корзину для освобождения места"</string>
   <string name="ui_bar_title_auto_backup">Автобэкап ожидается</string>
   <string name="ui_bar_title_download">MiDrive: загрузка</string>
   <string name="ui_bar_title_update">MiDrive: обновление</string>
