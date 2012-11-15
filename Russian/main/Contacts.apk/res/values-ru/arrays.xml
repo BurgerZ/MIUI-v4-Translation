@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="otherLabels">
-    <item msgid="8287841928119937597">"Организация"</item>
-    <item msgid="7196592230748086755">"Примечание"</item>
-  </string-array>
+    <string-array name="otherLabels">
+        <item>Организация</item>
+        <item>Заметка</item>
+    </string-array>
 </resources>

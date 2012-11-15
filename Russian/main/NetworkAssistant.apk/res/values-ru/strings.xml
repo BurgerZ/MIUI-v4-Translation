@@ -2,7 +2,8 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="adjust_traffic_auto_adjust_hint">Система постоянно запрашивает и регулирует данные от операторов. Нужно настроить информацию от операторов</string>
+  <string name="about">О программе</string>
+  <string name="adjust_traffic_auto_adjust_hint">Система автоматически регулирует запрашивает и передачу данных регулярно от операторов. Вам нужно настроить информацию об операторах</string>
   <string name="adjust_traffic_auto_adjust_open_hint">Автонастройка включена и будет автоматически регулировать данные трафика</string>
   <string name="adjust_traffic_auto_adjust_title">Автонастройка трафика</string>
   <string name="adjust_traffic_carrier_adjust">Получить от оператора</string>
@@ -28,7 +29,7 @@
   <string name="app_traffic_detail">\u0020трафик(%s)</string>
   <string name="apply_rules_failed">"Не удалось применить правила, повторите попытку.
 (%s)"</string>
-  <string name="apply_rules_failed_known">Ок</string>
+  <string name="apply_rules_failed_known">ОК</string>
   <string name="batch_connect_control">Управление соединениями</string>
   <string name="cancel_txt">Нет</string>
   <string name="cannot_find_sms_cmd">"Команда СМС не найдена"</string>
@@ -86,6 +87,9 @@
   <string name="notify_carrier_settings_title">Вы не настроили поставщика услуг связи. Настроить сейчас?</string>
   <string name="notify_traffic_settings_cancel_hint">Уведомления и контроль трафика будут отключены. Выйти сейчас?</string>
   <string name="notify_traffic_settings_title">Вы не настроили ваш тарифный план. Настроить сейчас?</string>
+  <string name="overseas_menu_traffic_adjust">Настройка вручную</string>
+  <string name="overseas_menu_traffic_settings">Предел трафика</string>
+  <string name="overseas_unknown_traffic_hint">Предел трафика не настроен. Настроить сейчас?</string>
   <string name="plate_traffic_already_used">Использовано (%s)</string>
   <string name="plate_traffic_exceed">Превышено (%s)</string>
   <string name="plate_traffic_remain">Осталось (%s)</string>
@@ -112,11 +116,13 @@
   <string name="settings_page_traffic_summary_no_settings">Пакет не выбран, с %d</string>
   <string name="sms_match_fail">ошибка SMS</string>
   <string name="sms_template_match_fail">Не соответствует шаблону SMS</string>
+  <string name="sms_template_updated_label">"Обновлено: "</string>
   <string name="sort_dialog_title">Сортировка</string>
   <string name="sorted_flux">Статистика</string>
   <string name="stop_app_button">Закрыть</string>
   <string name="sync_fail_notify_detail">Данные оператора не получены, попробуйте еще раз</string>
   <string name="sync_fail_notify_title">Синхронизация не удалась</string>
+  <string name="sync_setting_city">Синхронизация с расположением</string>
   <string name="sync_traffic_fail_message">Синхронизация с оператором не удалась, сервер занят. Пожалуйста, попробуйте позже или позвоните в поддержку %s для помощи</string>
   <string name="sync_traffic_fail_title">Синхронизация не удалась</string>
   <string name="sync_traffic_ing">Синхронизация с оператором, подождите...</string>
@@ -125,8 +131,9 @@
   <string name="sync_traffic_success">"Информация о пакетах трафика получена, настройки успешно обновлены"</string>
   <string name="this_month">Месяц</string>
   <string name="today">Сегодня</string>
-  <string name="traffic_none">0MB</string>
-  <string name="traffic_package_widget_name">Монитор (1x4)</string>
+  <string name="traffic_exceed">Превышено</string>
+  <string name="traffic_none">N/A</string>
+  <string name="traffic_package_widget_name">Монитор</string>
   <string name="traffic_remain">Осталось</string>
   <string name="traffic_settings_error">Ошибка в настройках ежемесячного разрешенного трафика. Согласно вашему оператору, размер вашего трафика: %1$s и осталось: %2$s.</string>
   <string name="traffic_suffix">Трафик</string>
@@ -134,6 +141,7 @@
   <string name="traffic_total">Пакет: %s</string>
   <string name="traffic_used_status">Использовано: %s</string>
   <string name="traffic_widget_name">Монитор (1x2)</string>
+  <string name="unknown">N/A</string>
   <string name="unknown_free_traffic_hint">Если вы не знаете разрешенного предела вашего трафика, пожалуйста, позвоните вашему оператору для выяснения подробностей</string>
   <string name="unknown_free_traffic_text">Я не знаю размера моего разрешенного трафика</string>
   <string name="unknown_free_traffic_title">Неизвестный размер разрешенного трафика</string>
@@ -142,10 +150,11 @@
   <string name="unknown_version">Неизвестная версия</string>
   <string name="update_fail">Ошибка обновления</string>
   <string name="update_no_network">Ошибка обновления, пожалуйста, проверьте настройки сети.</string>
-  <string name="update_success">Успешно обновлено.</string>
+  <string name="update_success">Успешно обновлено</string>
   <string name="updating">Обновление...</string>
   <string name="used_flux">Использование трафика</string>
-  <string name="warning_settings_toast">"%1$d%% %2$dMB"</string>
+  <string name="version_label">"Версия: "</string>
+  <string name="warning_settings_toast">%1$d%% %2$d МБ</string>
   <string name="warning_title">Внимание</string>
   <string name="widget_traffic_total">Пакет: %s</string>
   <string name="widget_traffic_used_status">Использовано: %s</string>

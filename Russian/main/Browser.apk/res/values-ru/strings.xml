@@ -85,7 +85,6 @@
   <string name="bookmarks_root_folder">Корневая папка</string>
   <string name="bookmarks_search">Браузер</string>
   <string name="browserFrameFileErrorLabel">Проблема с файлом</string>
-  <string name="browserFrameFormResubmitLabel" />
   <string name="browserFrameFormResubmitMessage">Страница, которую вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка).</string>
   <string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
   <string name="browser_bookmarks_page_bookmarks_text">Закладки</string>
@@ -170,9 +169,7 @@
   <string name="google_bookmarks">"Google: "</string>
   <string name="goto_dot">Поиск</string>
   <string name="history">История</string>
-  <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">Главная страница установлена.</string>
-  <string name="http">http://</string>
   <string name="import_bookmark">Импорт закладок</string>
   <string name="import_bookmark_failure">Закладки не УДАЛОСЬ импортировать!</string>
   <string name="import_bookmark_sucess">Закладки, успешно импортированы</string>
@@ -260,16 +257,11 @@
   <string name="pref_content_search_engine">Поисковая система</string>
   <string name="pref_content_search_engine_summary">Выберите поисковую систему</string>
   <string name="pref_content_title">Содержание страницы</string>
-  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
   <string name="pref_data_preload_summary">Разрешить браузеру предварительно загружать результаты поиска в фоновом режиме</string>
   <string name="pref_data_preload_title">Загрузка результатов поиска</string>
-  <string name="pref_data_preload_value_always">ALWAYS</string>
-  <string name="pref_data_preload_value_never">NEVER</string>
-  <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_data_title">Настройки контента</string>
   <string name="pref_default_text_encoding">Кодировка текста</string>
-  <string name="pref_default_text_encoding_default">Latin-1</string>
   <string name="pref_default_text_encoding_dialogtitle">Кодировка текста</string>
   <string name="pref_default_zoom">Масштаб по умолчанию</string>
   <string name="pref_default_zoom_dialogtitle">Масштаб по умолчанию</string>
@@ -285,7 +277,6 @@
   <string name="pref_development_single_column_rendering">Рендерить в один столбец</string>
   <string name="pref_development_title">Выполнить отладку</string>
   <string name="pref_development_trace">Включить трассировку</string>
-  <string name="pref_development_uastring">UAString</string>
   <string name="pref_development_viewport">Широкий экран</string>
   <string name="pref_development_visual_indicator">Включить визуальный индикатор</string>
   <string name="pref_exit_on_closing_last_tab_enabled_summary">При выходе из браузера, закрывать последние вкладки в окне навигации. Снимите флажок, чтобы начинать с домашней страницы</string>
@@ -357,8 +348,6 @@
   <string name="pref_security_show_security_warning_summary">Сообщать о проблемах с безопасностью сайтов</string>
   <string name="pref_set_homepage_to">Сохранить</string>
   <string name="pref_text_zoom">Масштабирование текста</string>
-  <string name="pref_ua_mione_entry">MiOne</string>
-  <string name="pref_ua_mione_value">6</string>
   <string name="pref_ua_string">Строка агента пользователя</string>
   <string name="pref_ua_title">Управление пользователями</string>
   <string name="pref_use_instant_search">Google Живой поиск</string>
@@ -381,7 +370,6 @@
   <string name="removed_from_bookmarks">Удалено из закладок.</string>
   <string name="replace">Заменить</string>
   <string name="report_reading_mode_issue">Отправить ошибку режима чтения в MIUI</string>
-  <string name="rlz_access_point">Y1</string>
   <string name="save">ОК</string>
   <string name="save_to_bookmarks">Добавить закладку</string>
   <string name="saving_snapshot">Сохраняется...</string>

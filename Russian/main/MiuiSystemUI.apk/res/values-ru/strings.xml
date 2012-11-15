@@ -63,9 +63,11 @@
   <string name="always_use_accessory">Использовать по умолчанию для этого USB-аксессуара</string>
   <string name="always_use_device">Использовать по умолчанию для этого устройства USB</string>
   <string name="app_label">Статус-бар</string>
+  <string name="battery_indicator_style">Стиль индикатора батареи</string>
   <string name="battery_low_percent_format">Осталось менее %d%% заряда</string>
   <string name="battery_low_subtitle">Заряд батареи снижается:</string>
-  <string name="battery_low_title">Подключите зарядное устройство!</string>
+  <string name="battery_low_title">Низкий заряд батареи. 
+  Подключите зарядное устройство</string>
   <string name="battery_low_why">Расход заряда</string>
   <string name="bluetooth_tethered">Bluetooth тизеринг</string>
   <string name="call_status_dialing">Набор</string>
@@ -86,8 +88,6 @@
   <string name="compat_mode_help_header">Совместимое масштабирование</string>
   <string name="compat_mode_off">Растянуть, на всесь экран</string>
   <string name="compat_mode_on">На весь экран</string>
-  <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
-  <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
   <string name="data_usage_disabled_dialog">"Указанный лимит для передачи данных достигнут.
 
 Дальнейшее потребление данных может привести к большому счету за услуги связи."</string>
@@ -96,17 +96,13 @@
   <string name="data_usage_disabled_dialog_enable">Включить данные повторно.</string>
   <string name="data_usage_disabled_dialog_mobile_title">Мобильные данные откл.</string>
   <string name="data_usage_disabled_dialog_title">Данные откл.</string>
-  <string name="description_direction_down">Слайд вниз для %s.</string>
-  <string name="description_direction_left">Слайд влево для %s.</string>
-  <string name="description_direction_right">Слайд вправо для %s.</string>
-  <string name="description_direction_up">Слайд вверх для %s.</string>
-  <string name="description_target_search">Поиск</string>
+  <string name="default_usb_mode">Тип подключения по USB</string>
   <string name="dismount_storage">Не подключать</string>
   <string name="dlg_confirm_kill_storage_users_text">Если вы включите USB накопитель, некоторые приложения остановятся и могут быть недоступен до тех пор, пока вы не выключить USB накопитель.</string>
   <string name="dlg_confirm_kill_storage_users_title">Включите USB накопитель</string>
   <string name="dlg_error_title">Неудачная операция с USB</string>
   <string name="dlg_ok">OK</string>
-  <string name="dreams_dock_launcher">Включить скринсейвер</string>
+  <string name="drive_mode_tip">Вы находитесь в автомобиле, пожалуйста, ездите осторожнее при работе с телефоном</string>
   <string name="ext_media_badremoval_notification_message">Отключите USB накопитель перед удалением во избежание потери данных.</string>
   <string name="ext_media_badremoval_notification_title">USB накопитель неожиданно удалён</string>
   <string name="ext_media_checking_notification_message">Проверка ошибок.</string>
@@ -119,7 +115,6 @@
   <string name="ext_media_safe_unmount_notification_title">USB накопитель безопасно отключён</string>
   <string name="ext_media_unmountable_notification_message">USB накопитель повреждён. Возможно, придется переформатировать его.</string>
   <string name="ext_media_unmountable_notification_title">USB накопитель повреждён</string>
-  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Местоположение определено по GPS</string>
   <string name="gps_notification_searching_text">Поиск GPS</string>
   <string name="incoming_call_vibrate_hint">Входящий вызов</string>
@@ -197,7 +192,6 @@
   <string name="status_bar_clear_all_button">Очистить</string>
   <string name="status_bar_date_format">"EEEE
 d MMMM yyyy"</string>
-  <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_do_not_disturb_button">Не беспокоить</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Настройка методов ввода</string>
   <string name="status_bar_latest_events_title">Уведомления</string>
@@ -211,8 +205,8 @@ d MMMM yyyy"</string>
   <string name="status_bar_ongoing_events_title">Постоянные</string>
   <string name="status_bar_please_disturb_button">Показать уведомления</string>
   <string name="status_bar_recent_clear_nothing_result">Нет памяти для очистки</string>
-  <string name="status_bar_recent_clear_result">"Успешно освобождено %1$s памяти,
-Свободно памяти %2$s"</string>
+  <string name="status_bar_recent_clear_result">"Освобождено: %1$s
+Свободно: %2$s"</string>
   <string name="status_bar_recent_guide_all">Сдвиньте вверх для закрытия, вниз для блокировки</string>
   <string name="status_bar_recent_guide_bottom">Сдвиньте вниз для блокировки</string>
   <string name="status_bar_recent_guide_top">Сдвиньте вверх для закрытия</string>
@@ -239,7 +233,7 @@ d MMMM yyyy"</string>
   <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
   <string name="status_bar_toggle_brightness">Подсветка</string>
   <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
-  <string name="status_bar_toggle_data">Данные</string>
+  <string name="status_bar_toggle_data">Интернет</string>
   <string name="status_bar_toggle_data_action">com.android.phone/.Settings</string>
   <string name="status_bar_toggle_divider">Настроить</string>
   <string name="status_bar_toggle_divider_action">com.android.systemui/.settings.StyleSettings</string>
@@ -248,11 +242,12 @@ d MMMM yyyy"</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_gps_action">com.android.settings/com.android.settings.Settings$LocationSettingsActivity</string>
   <string name="status_bar_toggle_lock">Блокировка</string>
-  <string name="status_bar_toggle_mute">Тишина</string>
+  <string name="status_bar_toggle_mute">Без звука</string>
   <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
   <string name="status_bar_toggle_network_type">Тип сети</string>
   <string name="status_bar_toggle_network_type_action">com.android.phone/.MiuiPreferredNetworkTypeListPreference</string>
-  <string name="status_bar_toggle_privacy_mode">Защита</string>
+  <string name="status_bar_toggle_power_mode">Режим питания</string>
+  <string name="status_bar_toggle_privacy_mode">Гость</string>
   <string name="status_bar_toggle_reboot">Перезагрузка</string>
   <string name="status_bar_toggle_rotate">Поворот</string>
   <string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
@@ -271,8 +266,9 @@ d MMMM yyyy"</string>
   <string name="tab_toggles_lable">Переключатели</string>
   <string name="title_usb_accessory">USB-аксессуары</string>
   <string name="to_vibrate_settings">Настройка вибрации</string>
-  <string name="torch_activity_hint">Фонарь можно быстро включить, удерживая [icon] на экране блокировки</string>
-  <string name="torch_activity_name">Фонарь</string>
+  <string name="toast_rotation_locked">Экран заблокирован в ландшафтной ориентации</string>
+  <string name="torch_activity_hint">Фонарик можно быстро включить, удерживая [icon] на экране блокировки</string>
+  <string name="torch_activity_name">Фонарик</string>
   <string name="usb_accessory_confirm_prompt">Открыть %1$s когда этот USB-аксессуар подключен?</string>
   <string name="usb_accessory_permission_prompt">Разрешить приложению %1$s доступ к USB-аксессуару?</string>
   <string name="usb_accessory_uri_prompt">Нет установленных приложений работающих с этим USB-аксессуаром. Узнайте больше об этом аксессуаре на %1$s</string>

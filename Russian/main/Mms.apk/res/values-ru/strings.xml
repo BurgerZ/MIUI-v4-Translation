@@ -10,6 +10,7 @@
   <string name="add_music">Добавить музыку</string>
   <string name="add_nickname">Псевдоним</string>
   <string name="add_nickname_title">Добавить псевдоним</string>
+  <string name="add_number_to_sender">Добавить номер в %s</string>
   <string name="add_phrase">Фраза</string>
   <string name="add_picture">Добавить картинку</string>
   <string name="add_slide">Добавить слайд</string>
@@ -58,7 +59,9 @@
   <string name="confirm">Подтвердить</string>
   <string name="confirm_clear_search_text">История поиска будет удалена.</string>
   <string name="confirm_clear_search_title">Очистить</string>
-  <string name="confirm_delete_SIM_message">Вы уверены, что хотите удалить это сообщение с SIM карты?</string>
+  <string name="confirm_delete_RUIM_message">Это сообщение на RUIM будет удалено</string>
+  <string name="confirm_delete_SIM_message">Вы уверены, что хотите удалить это сообщение с SIM-карты?</string>
+  <string name="confirm_delete_all_RUIM_messages">Все сообщения на RUIM будут удалены</string>
   <string name="confirm_delete_all_SIM_messages">Вы уверены, что хотите удалить все сообщения с SIM карты?</string>
   <string name="confirm_delete_all_conversations">Вы уверены, что хотите удалить все цепочки сообщений?</string>
   <string name="confirm_delete_conversation">Вы уверены, что хотите удалить данную цепочку сообщений?</string>
@@ -70,7 +73,8 @@
   <string name="confirm_rate_limit">Отправляется большое количество MMS. Продолжить?</string>
   <string name="context_menu_add_contact">Добавить в контакты</string>
   <string name="context_menu_browse_web">Перейти</string>
-  <string name="context_menu_contact">Контакт:%1$s</string>
+  <string name="context_menu_call">Вызов</string>
+  <string name="context_menu_contact">Контакт: %1$s</string>
   <string name="context_menu_copy">Копировать</string>
   <string name="context_menu_copy_notice">Текст был скопирован в буфер обмена</string>
   <string name="context_menu_dial">Вызов</string>
@@ -88,6 +92,7 @@
   <string name="copy_to_sdcard_fail">Файл не сохранен</string>
   <string name="copy_to_sdcard_success">Файл сохранен как %s</string>
   <string name="database_corruption">База данных повреждена, востановление базы данных</string>
+  <string name="date_timed_message_dialog">Дата:</string>
   <string name="delete">Удалить</string>
   <string name="delete_bookmark">Удалить закладку</string>
   <string name="delete_message">Удалить</string>
@@ -139,6 +144,7 @@
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Загрузка...</string>
   <string name="festival_sms_push">Поздравления</string>
+  <string name="festival_sms_sdcard_unready">SD-Карта не готова</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="flatshow_page_no">%1$d</string>
   <string name="forward_prefix">"От: "</string>
@@ -157,6 +163,8 @@
   <string name="has_draft">Черновик</string>
   <string name="has_invalid_recipient">Недопустимые получатели: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Адрес отправителя скрыт</string>
+  <string name="in_calling">Вызов</string>
+  <string name="in_sms">Сообщение</string>
   <string name="inline_subject">&lt;Тема: %s&gt;</string>
   <string name="insufficient_drm_rights">Обнаруженных прав DRM недостаточно</string>
   <string name="invalid_destination">Неверный адрес получателя</string>
@@ -168,6 +176,7 @@
   <string name="loading_all_messages">Загрузка сообщений...</string>
   <string name="loading_contacts">Загрузка контактов...</string>
   <string name="loading_conversations">Загрузка цепочек...</string>
+  <string name="loading_mms">Загрузка MMS…</string>
   <string name="me">Я</string>
   <string name="menu_add_address_to_contacts">Добавить в контакты: %s</string>
   <string name="menu_add_to_contacts">Добавить в контакты</string>
@@ -206,6 +215,7 @@
   <string name="message_send_failed_title">Сообщение не отправлено</string>
   <string name="message_send_read_report">Будет отправлен отчет о прочтении</string>
   <string name="message_size_label">"Размер сообщения: "</string>
+  <string name="message_title">%1$s %2$s написал:</string>
   <string name="message_too_big_for_audio">Сообщение слишком велико, чтобы прикрепить аудио</string>
   <string name="message_too_big_for_video">Сообщение слишком велико, чтобы приложить видео</string>
   <string name="message_type_label">"Тип: "</string>
@@ -215,7 +225,7 @@
   <string name="mms">MMS</string>
   <string name="move_down">Переместить вниз</string>
   <string name="move_up">Переместить вверх</string>
-  <string name="msg_type_hint_mms">Мултимедийное сообщение</string>
+  <string name="msg_type_hint_mms">Мультимедийное сообщение</string>
   <string name="msg_type_hint_mx">Облачное сообщение</string>
   <string name="msg_type_hint_sms">Текстовое сообщение</string>
   <string name="multi_select_title_conversation">Выбрано цепочек: %1$s</string>
@@ -255,7 +265,7 @@
   <string name="nickname_placeholder">Имя</string>
   <string name="no">Отмена</string>
   <string name="no_conversations">Пока ничего нет</string>
-  <string name="no_sim">SIM карта отсутствует, облачные сообщения недоступны</string>
+  <string name="no_sim">SIM-карта недоступна, облачные сообщения недоступны</string>
   <string name="no_subject">(Без темы)</string>
   <string name="no_subject_view">(Без темы)</string>
   <string name="non_english_subject_limit">Предел 13 символов для темы сообщения, написанной не латинницей</string>
@@ -298,8 +308,9 @@
   <string name="pref_summary_delivery_reports">Запрос отчёта о доставке для каждого отправляемого сообщения</string>
   <string name="pref_summary_filter_phone">Показывать контакты только с телефонными номерами</string>
   <string name="pref_summary_hide_festival">Скрыть вкладку ФРАЗЫ для языков, отличных от китайского</string>
-  <string name="pref_summary_manage_sim_messages">Управление сообщениями, хранящимися на SIM карте</string>
-  <string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS сообщения</string>
+  <string name="pref_summary_manage_ruim_messages">Управление сообщениями, хранящимися на RUIM карте</string>
+  <string name="pref_summary_manage_sim_messages">Управление сообщениями на SIM-карте</string>
+  <string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения</string>
   <string name="pref_summary_mms_delivery_reports">Запрашивать отчет о доставке для всех отправляемых сообщений</string>
   <string name="pref_summary_mms_read_reports">Запрашивать отчет о прочтении для всех отправляемых сообщений</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать MMS сообщения в роуминге</string>
@@ -327,7 +338,8 @@
   <string name="pref_title_delivery_ringtone">Мелодия отчёта</string>
   <string name="pref_title_filter_phone">Только с телефонами</string>
   <string name="pref_title_hide_festival">Скрыть вкладку ФРАЗЫ</string>
-  <string name="pref_title_manage_sim_messages">Сообщения на SIM карте</string>
+  <string name="pref_title_manage_ruim_messages">Управление сообщениями RUIM карты</string>
+  <string name="pref_title_manage_sim_messages">Сообщения на SIM-карте</string>
   <string name="pref_title_mms_auto_retrieval">Автозагрузка</string>
   <string name="pref_title_mms_delete">Макс. количество MMS</string>
   <string name="pref_title_mms_delivery_reports">Отчеты о доставке</string>
@@ -374,9 +386,13 @@
   <string name="resent_message">Повторить</string>
   <string name="resize_image_error_information">Изображение слишком велико для отправки даже после изменения размера.</string>
   <string name="restore_default">Восстановить настройки</string>
+  <string name="ruim_empty">Нет сообщений на RUIM карте</string>
+  <string name="ruim_full_title">RUIM карта полная</string>
+  <string name="ruim_manage_messages_title">Текстовые сообщения на RUIM карте</string>
   <string name="save">Сохранить</string>
   <string name="save_ringtone">Сохранить как мелодию звонка</string>
-  <string name="save_to_sim">Сохранить на SIM карту</string>
+  <string name="save_to_ruim">Сохранить на карту RUIM</string>
+  <string name="save_to_sim">Сохранить на SIM-карту</string>
   <string name="saved_label">"Сохранено: "</string>
   <string name="saved_ringtone">Рингтон сохранен.</string>
   <string name="saved_ringtone_fail">Рингтон не сохранен.</string>
@@ -416,10 +432,12 @@
   <string name="slide_number">Слайд %s</string>
   <string name="slide_show_part">Часть %1$s/%2$s</string>
   <string name="slideshow_activity">Слайд-шоу</string>
+  <string name="sms_content">Содержание сообщения</string>
   <string name="sms_full_body">Память переполнена. Чтобы сохранить новые сообщения, удалите несколько старых.</string>
   <string name="sms_full_title">Память для текстовых сообщений переполнена.</string>
   <string name="sms_rejected_body">Входящее сообщение отклонено по неизвестной причине</string>
   <string name="sms_rejected_title">Сообщение отклонено</string>
+  <string name="sms_sender">От</string>
   <string name="status_failed">Сбой</string>
   <string name="status_label">"Статус: "</string>
   <string name="status_none">(Нет)</string>
@@ -438,6 +456,7 @@
   <string name="summary_date_type">Время сообщений</string>
   <string name="text_in_popup_saved_to_clipboard">Редактируемый текст сохранен в буфер обмена</string>
   <string name="text_message">Текстовое сообщение</string>
+  <string name="time_timed_message_dialog">Время:</string>
   <string name="timed_message_expired_title">%d запланированных сообщений не отправлено</string>
   <string name="timed_message_expired_title_2">Вы хотите отправить их сейчас?</string>
   <string name="timed_message_in_total">... (всего: %d)</string>
@@ -462,6 +481,7 @@
 Попыток: %s."</string>
   <string name="undelivered_msg_dialog_title">Недоставленное сообщение</string>
   <string name="undelivered_sms_dialog_body">Не удалось отправить сообщение</string>
+  <string name="unknown_num">Неизвестный номер</string>
   <string name="unknown_sender">Неизвестный отправитель</string>
   <string name="unsupported_media_format">Неподдерживаемый формат %1$s</string>
   <string name="view">Просмотр</string>

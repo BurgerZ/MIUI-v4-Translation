@@ -76,13 +76,6 @@
         <item>Questo è un esempio di sintesi vocale in italiano.</item>
         <item>Este es un ejemplo de síntesis de voz en español.</item>
     </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>Поиск...</item>
@@ -288,7 +281,7 @@
         <item>Сильный</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
-        <item>Графически</item>
+        <item>Графический</item>
         <item>Проценты</item>
         <item>Полоска в статусбаре</item>
     </string-array>

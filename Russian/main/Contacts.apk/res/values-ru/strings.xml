@@ -6,6 +6,7 @@
   <string name="account_phone">Только телефон, без синхронизации</string>
   <string name="account_sim">Только SIM</string>
   <string name="account_type_format">Контакт %1$s</string>
+  <string name="activity_title_confirm_add_detail">Добавление данных</string>
   <string name="activity_title_contacts_filter">Фильтр контактов</string>
   <string name="activity_title_settings">Настройки</string>
   <string name="add_account">Добавить аккаунт</string>
@@ -24,10 +25,9 @@
   <string name="aggregation_suggestion_join_dialog_title">Объединить контакты</string>
   <string name="attach_photo_dialog_title">Фотография контакта</string>
   <string name="audio_chat">Аудиочат</string>
-  <string name="batch_delete_msg">Вы уверены, что хотите удать %d контактов? 
-
- Если вы пользуетесь сервисом синхронизации контактов, контакты в облаке также будут удалены.</string>
+  <string name="batch_delete_msg">"Удалить выбранные контакты (%d)? Контакты в облаке тоже будут удалены!"</string>
   <string name="blurbJoinContactDataWith">Выберите контакт, который нужно объединить с этим адресатом: %s.</string>
+  <string name="btn_finished">Готово</string>
   <string name="caching_vcard_message">Импортер кэширует файлы vCard в локальное временное хранилище. Фактический импорт начнется в ближайшее время.</string>
   <string name="caching_vcard_title">Кэширование файлов vCard в локальное временное хранилище</string>
   <string name="callBack">Перезвонить</string>
@@ -62,6 +62,7 @@
   <string name="call_work_mobile">Рабочий мобильный</string>
   <string name="call_work_pager">Рабочий пейджер</string>
   <string name="calllog_menu_blacklist">В черный список</string>
+  <string name="calllog_menu_call_ip_number">Вызов через интернет (вызов %s)</string>
   <string name="calllog_menu_edit_before_call">Изменить перед вызовом</string>
   <string name="calllog_menu_send_sms">Отправить сообщение</string>
   <string name="callrecordview_item_newcontact">Новый контакт</string>
@@ -111,17 +112,10 @@
   <string name="clearCallLogProgress_title">Очистка списка вызовов</string>
   <string name="clear_default">Удалить настройки по умолчанию</string>
   <string name="click_close">Коснитесь экрана чтобы закрыть</string>
+  <string name="close">Закрыть</string>
   <string name="composer_failed_to_get_database_infomation">Не удалось получить сведения из базы данных</string>
   <string name="composer_has_no_exportable_contact">Нет контактов для экспорта. Если в вашем телефоне имеются контакты, возможно, их экспорт был заблокирован поставщиком данных.</string>
   <string name="composer_not_initialized">Редактор vCard запущен некорректно</string>
-  <string name="config_export_dir">/mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider" />
-  <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix" />
-  <string name="config_export_file_suffix" />
-  <string name="config_export_vcard_type">default</string>
-  <string name="config_import_vcard_type">default</string>
-  <string name="config_prohibited_phone_number_regexp" />
   <string name="confirm_delete_selected_call_log">Подтвердите удаление %1d выбранных записей</string>
   <string name="confirm_export_message">Экспортировать список контактов в файл %s?</string>
   <string name="confirm_export_title">Подтверждение·экспорта</string>
@@ -308,6 +302,7 @@
   <string name="invalidContactMessage">Контакт не существует.</string>
   <string name="keep_local">Сохранить локально</string>
   <string name="label_duplicate_count">(%1$d)</string>
+  <string name="label_merge">Объединено</string>
   <string name="label_no_duplicate_contacts">Супер! Теперь нет повторяющихся контактов!</string>
   <string name="label_notes">Примечания</string>
   <string name="label_sip_address">Интернет-вызов</string>
@@ -532,6 +527,7 @@
   <string name="scan_duplicate">Поиск одинаковых контактов, подождите...</string>
   <string name="scan_duplicate_message">Абсолютно одинаковых контактов (%1$d)</string>
   <string name="scan_merge">Поиск возможных одинаковых контактов, подождите...</string>
+  <string name="scan_merge_message">Контакты с частично дублирующимися данными (%1$d)</string>
   <string name="scanning_sdcard_failed_message">Ошибка сканирования SD-карты: %s</string>
   <string name="scanning_sdcard_failed_title">SD-карта не просканирована</string>
   <string name="searchHint">Поиск контактов</string>
@@ -565,6 +561,8 @@
   <string name="sim_card_no_free_space_title">SIM карта переполнена</string>
   <string name="sim_contact_search_error">Возникла ошибка при поиске контактов SIM карты</string>
   <string name="sim_contacts">Контакты SIM</string>
+  <string name="sim_contacts_invisiable">Скрывать</string>
+  <string name="sim_contacts_visiable">Показывать</string>
   <string name="sim_export_loading">Чтение SIM карты. Эта операция может занять минуту, будьте терпеливы.</string>
   <string name="sim_indexed_contact_not_exist">Позиция %1$d на SIM-карте не допустима, следует выбрать между %2$d and %3$d</string>
   <string name="sim_no_contact">Нет контактов на SIM-карте</string>
@@ -613,7 +611,9 @@
   <string name="strequentList">Избранное</string>
   <string name="success_message_import_from_account">Импорт выполнен успешно</string>
   <string name="summary_kind_title">Основная информация</string>
-  <string name="t9_search_guide">Введите номер телефона либо ищите контакт с помощью T9.</string>
+  <string name="sync_xiaomi_cloud_contacts">Восстановить контакты из MIUI-облака</string>
+  <string name="t9_search_guide">Введите номер телефона или найдите контакт с помощью T9</string>
+  <string name="t9_search_guide_zhuyin">Введите номер телефона или найдите контакт с помощью T9</string>
   <string name="take_new_photo">Создать новое фото</string>
   <string name="take_photo">Сфотографировать</string>
   <string name="titleJoinContactDataWith">Объединить контакты</string>

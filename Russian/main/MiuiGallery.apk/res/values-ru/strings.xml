@@ -20,6 +20,7 @@
   <string name="already_saved">Картинка уже сохранена в %s</string>
   <string name="aperture">Диафрагма</string>
   <string name="app_name">Галерея</string>
+  <string name="apply_pic_for">Установить фото как...</string>
   <string name="appwidget_empty_text">Нет фотографий</string>
   <string name="appwidget_title">Фотогалерея</string>
   <string name="auto">Авто</string>
@@ -49,6 +50,13 @@
   <string name="cloud_gallery_space_full">Ошибка отправки, облачные альбомы переполнены</string>
   <string name="cloud_media_set_set">Онлайн альбомы</string>
   <string name="confirm_delete">Вы уверены, что хотите удалить %s фото?</string>
+  <string formatted="false" name="confirm_delete_album">Вы уверены, что хотите удалить альбомы (%s) (Включая %s штук)?</string>
+  <string name="confirm_delete_folders_and_pictures">Вы уверены, что хотите удалить %s?</string>
+  <string formatted="false" name="confirm_delete_folders_including">%s папок (включая %s)</string>
+  <string name="confirm_delete_including_null">0 штук</string>
+  <string name="confirm_delete_pictures">%s фотографий</string>
+  <string name="confirm_delete_system_album">%s - это системный альбом, вы уверены, что хотите удалить?</string>
+  <string name="confirm_delete_videos">%s видео</string>
   <string name="confirm_know">OK</string>
   <string name="contact_photo">Как фото контакта</string>
   <string name="contrast">Контраст</string>
@@ -69,9 +77,9 @@
   <string name="description">Описание</string>
   <string name="deselect_all">Отменить все</string>
   <string name="details">Сведения</string>
-  <string name="details_hms">%1$d:%2$02d:%3$02d</string>
-  <string name="details_ms">%1$02d:%2$02d</string>
-  <string name="details_title">Элементов %1$d из %2$d:</string>
+  <string formatted="false" name="details_hms">%1$d:%2$02d:%3$02d</string>
+  <string formatted="false" name="details_ms">%1$02d:%2$02d</string>
+  <string formatted="false" name="details_title">Элементов %1$d из %2$d:</string>
   <string name="disallowed_operation">Не поддерживается для данного типа данных</string>
   <string name="documentary">Документальные</string>
   <string name="done">Готово</string>
@@ -131,6 +139,7 @@
   <string name="height">Высота</string>
   <string name="highlight">Блики</string>
   <string name="home_my_captured_items">мои снимки</string>
+  <string name="home_recent_albums">последний альбом</string>
   <string name="how_many_pics">Фотографий: %d</string>
   <string name="how_many_sub_folders">Папок: %d</string>
   <string name="how_many_videos">Видео: %d</string>
@@ -158,15 +167,18 @@
   <string name="maker">Автор</string>
   <string name="manual">Вручную</string>
   <string name="menu_item_sort">Сортировка</string>
-  <string name="menu_item_sort_date_asc">По дате (А-Я)</string>
-  <string name="menu_item_sort_date_desc">По дате (Я-А)</string>
-  <string name="menu_item_sort_name_asc">По имени (А-Я)</string>
-  <string name="menu_item_sort_name_desc">По имени (Я-А)</string>
-  <string name="menu_item_sort_size_asc">По размеру (А-Я)</string>
-  <string name="menu_item_sort_size_desc">По размеру (Я-А)</string>
-  <string name="menu_item_sort_visit_asc">По частоте (А-Я)</string>
-  <string name="menu_item_sort_visit_desc">По частоте (Я-А)</string>
+  <string name="menu_item_sort_date_asc">По дате (A-Z)</string>
+  <string name="menu_item_sort_date_desc">По дате (Z-A)</string>
+  <string name="menu_item_sort_name_asc">По имени (A-Z)</string>
+  <string name="menu_item_sort_name_desc">По имени (Z-A)</string>
+  <string name="menu_item_sort_size_asc">По размеру (A-Z)</string>
+  <string name="menu_item_sort_size_desc">По размеру (Z-A)</string>
+  <string name="menu_item_sort_visit_asc">По частоте (A-Z)</string>
+  <string name="menu_item_sort_visit_desc">По частоте (Z-A)</string>
   <string name="message_no_delete_access">Доступ запрещен. Невозможно удалить файл или папку: %s</string>
+  <string name="miliao_folder_display_name">MiTalk</string>
+  <string name="miliao_painting_folder_display_name">MiTalk Painting</string>
+  <string name="miliao_saved_folder_display_name">Сохраненные MiTalk</string>
   <string name="mimetype">Тип MIME</string>
   <string name="miui_capture_screen_folder_display_name">Скриншоты</string>
   <string name="model">Модель</string>
@@ -199,6 +211,7 @@
   <string name="open_sync">Синхронизировать</string>
   <string name="operation_cancel">Отмена</string>
   <string name="operation_delete">Удалить</string>
+  <string name="operation_delete_confirm_message">Медиа-файлы, которые выбраны или в выбранной папке, будут удалены с SD карты</string>
   <string name="operation_info">Детали</string>
   <string name="operation_refresh">Обновить</string>
   <string name="operation_rename">Переименовать</string>
@@ -243,6 +256,7 @@
   <string name="saving_image">Сохранение картинки...</string>
   <string name="screen_saver_wallpaper">На экран блокировки</string>
   <string name="sd_explorer">Просмотр SD-карты</string>
+  <string name="sd_folder">Папки SD карты</string>
   <string name="sd_not_available">SD-карта размонтирована или недоступна</string>
   <string name="seconds">секунд</string>
   <string name="select_album">Выбрать альбомы</string>
@@ -289,6 +303,7 @@
   <string name="slideshow_interval_invalid">Неверная настройка интервала времени, который должен быть от 1 до 3600. Возобновится интервал времени по умолчанию</string>
   <string name="slideshow_repeat_mode">Повторять</string>
   <string name="storage_all_volumes">Все накопители</string>
+  <string name="storage_no_space">Не хватает памяти</string>
   <string name="straighten">Выравнивание</string>
   <string name="straighten_tooltip">Чтобы выровнять фото, перетащите его</string>
   <string name="switch_to_camera">Переключиться на камеру</string>

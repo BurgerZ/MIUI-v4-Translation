@@ -72,4 +72,8 @@
         <item quantity="other">%d песен были удалены.</item>
         <item quantity="one">1 песня была удалена.</item>
     </plurals>
+    <plurals name="Nnowplaying">
+        <item quantity="other">песен проигрываются</item>
+        <item quantity="one">песня проигрывается</item>
+    </plurals>
 </resources>
