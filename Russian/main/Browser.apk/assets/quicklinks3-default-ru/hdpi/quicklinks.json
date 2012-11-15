@@ -1,6 +1,12 @@
 {
     "quicklinks":[
         {
+            "title":"BurgerZ.pro",
+            "url":"http://burgerz.pro/",
+            "thumbnail":"thumb_burgerz.png",
+            "favicon":"favicon_burgerz.png"
+        },
+		{
             "title":"Прошивки",
             "url":"http://www.romz.bz/",
             "thumbnail":"thumb_romz.png",
@@ -24,14 +30,6 @@
             "thumbnail":"thumb_yahoo.png",
             "favicon":"favicon_yahoo.png"
         },
-        {
-            "title":"MSN",
-            "url":"http://www.msn.com/",
-            "thumbnail":"thumb_msn.png",
-            "favicon":"favicon_msn.png"
-        },
-
-
         {
             "title":"Twitter",
             "url":"http://twitter.com/",
