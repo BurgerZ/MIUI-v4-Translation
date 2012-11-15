@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="about_settings">О телефоне</string>
   <string name="about_settings_summary">Просмотр юридической информации, состояния планшетного ПК и версии ПО</string>
   <string name="ac_enable_title">Ограничение доступа</string>
@@ -701,10 +699,10 @@
   <string name="dock_sounds_enable_summary_on">Воспроизводить звук при установке или извлечении телефона</string>
   <string name="dock_sounds_enable_title">Звук при установке в док-станцию</string>
   <string name="does_not_exist">Приложение не установлено.</string>
-  <string name="dolby_bassboost_high">Высокий</string>
-  <string name="dolby_bassboost_low">Низкий</string>
-  <string name="dolby_bassboost_normal">Нормальный</string>
-  <string name="dolby_bassboost_title">"Уровень баса: "</string>
+  <string name="dolby_bassboost_high">Высокое</string>
+  <string name="dolby_bassboost_low">Низкое</string>
+  <string name="dolby_bassboost_normal">Нормальное</string>
+  <string name="dolby_bassboost_title">"Усиление баса: "</string>
   <string name="dolby_effects">Эффекты Dolby</string>
   <string name="dolby_eq_auto">Пользовательский</string>
   <string name="dolby_eq_blues">Блюз</string>
@@ -739,8 +737,6 @@
   <string name="dolby_roomsize_normal">Нормальная комната</string>
   <string name="dolby_roomsize_summary">Режим "Звук вокруг" доступен только при использовании наушников</string>
   <string name="dolby_roomsize_title">Режим "Звук вокруг": </string>
- 
-
   <string name="drive_mode">В автомобиле</string>
   <string name="drive_mode_auto_reply">Автоответ</string>
   <string name="drive_mode_auto_sms_reply_content">Извините, я сейчас еду. Я перезвоню вам позже.</string>
