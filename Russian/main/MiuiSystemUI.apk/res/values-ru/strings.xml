@@ -102,7 +102,7 @@
   <string name="dlg_confirm_kill_storage_users_title">Включите USB накопитель</string>
   <string name="dlg_error_title">Неудачная операция с USB</string>
   <string name="dlg_ok">OK</string>
-  <string name="drive_mode_tip">Вы находитесь в автомобиле, пожалуйста, ездите осторожнее при работе с телефоном</string>
+  <string name="drive_mode_tip">Вы находитесь в автомобиле, пожалуйста, будьте внимательны за рулем при работе с телефоном</string>
   <string name="ext_media_badremoval_notification_message">Отключите USB накопитель перед удалением во избежание потери данных.</string>
   <string name="ext_media_badremoval_notification_title">USB накопитель неожиданно удалён</string>
   <string name="ext_media_checking_notification_message">Проверка ошибок.</string>
