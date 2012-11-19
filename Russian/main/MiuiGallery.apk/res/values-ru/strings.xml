@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="Import">Импорт</string>
   <string name="account_not_login">Вы можете войти в ваш аккаунт Xiaomi и синхронизировать ваше облако. Это автоматически загрузит ваши локальные фотографии в облако.</string>
   <string name="activity_not_found">Действие не поддерживается ни в одном приложении.</string>
@@ -224,7 +222,7 @@
   <string name="people">Люди</string>
   <string name="photo_saved">Фотография сохранена в альбоме \"%s\"</string>
   <string name="photoeditor_name">Фотостудия</string>
-  <string name="photos">Фотографии</string>
+  <string name="photos">" Фотографий"</string>
   <string name="picasa_posts">Записи</string>
   <string name="play_video">Воспроизведение видео</string>
   <string name="posterize">Постеризация</string>
