@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <array name="send_item">
+    <string-array name="send_item">
         <item>SMS</item>
         <item>Email</item>
-    </array>
-    <array name="act_weather_main_listview_json_key">
+    </string-array>
+    <string-array name="act_weather_main_listview_json_key">
         <item>Ветер:</item>
         <item>УФ-уровень:</item>
         <item>穿衣指数</item>
@@ -13,8 +13,8 @@
         <item>晾晒指数</item>
         <item>晨练指数</item>
         <item>旅游指数</item>
-    </array>
-    <array name="act_weather_main_listview_key">
+    </string-array>
+    <string-array name="act_weather_main_listview_key">
         <item>Ветер:　　</item>
         <item>УФ-уровень:　</item>
         <item>穿衣指数:</item>
@@ -23,7 +23,7 @@
         <item>晾晒指数:</item>
         <item>晨练指数:</item>
         <item>旅游指数:</item>
-    </array>
+    </string-array>
     <string-array name="weather_image">
         <item>Ясно</item>
         <item>Облачно</item>
@@ -48,8 +48,8 @@
         <item>Умеренная пыль</item>
         <item>Пыль</item>
         <item>Град</item>
-    </array>
-    <array name="weather_image_tips">
+    </string-array>
+    <string-array name="weather_image_tips">
         <item></item>
         <item></item>
         <item></item>
@@ -73,8 +73,8 @@
         <item>有风沙，如果出门建议戴好帽子和口罩。</item>
         <item>有风沙，如果出门建议戴好帽子和口罩。</item>
         <item>难得一见的冰雹天气，外出走路要小心！</item>
-    </array>
-    <array name="weather_sms_content">
+    </string-array>
+    <string-array name="weather_sms_content">
         <item>适合锻炼和出游。记得做好防晒措施。</item>
         <item>多云的天气。不会有雨水。</item>
         <item>由于天气可能会有变化，不太建议长时间外出噢。</item>
@@ -98,8 +98,8 @@
         <item>有风沙，如果出门建议戴好帽子和口罩。</item>
         <item>有风沙，如果出门建议戴好帽子和口罩。</item>
         <item>难得一见的冰雹天气，外出走路要小心！</item>
-    </array>
-    <array name="weather_sms_addons">
+    </string-array>
+    <string-array name="weather_sms_addons">
         <item>今天@天气$。</item>
         <item>温度%。</item>
         <item>出门记得带伞。</item>
@@ -128,8 +128,8 @@
         <item>出门走走吧，晒晒太阳:)</item>
         <item>可以把被子拿出来晒晒，呵呵...</item>
         <item>天气可能有些阴凉，出门多穿些。</item>
-    </array>
-    <array name="weather_info_uv">
+    </string-array>
+    <string-array name="weather_info_uv">
         <item>暂缺</item>
         <item>现在暂时没有紫外线指数的详细信息，请稍后再查看。</item>
         <item>中等</item>
@@ -142,8 +142,8 @@
         <item>紫外线辐射强，建议涂擦SPF20左右、PA++的防晒护肤品。避免在10点至14点暴露于日光下。</item>
         <item>很强</item>
         <item>紫外线辐射极强，建议涂擦SPF20以上、PA++的防晒护肤品，尽量避免暴露于日光下。</item>
-    </array>
-    <array name="weather_info_dress">
+    </string-array>
+    <string-array name="weather_info_dress">
         <item>暂缺</item>
         <item>现在暂时没有穿衣指数的详细信息，请稍后再查看。</item>
         <item>凉</item>
@@ -164,8 +164,8 @@
         <item>天气冷，建议着棉衣、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣或冬大衣。</item>
         <item>寒冷</item>
         <item>天气冷，建议着棉衣、皮夹克加羊毛衫等冬季服装。年老体弱者宜着厚棉衣或冬大衣。</item>
-    </array>
-    <array name="weather_info_msport">
+    </string-array>
+    <string-array name="weather_info_msport">
         <item>暂缺</item>
         <item>现在暂时没有晨练指数的详细信息，请稍后再查看。</item>
         <item>适宜</item>
@@ -176,8 +176,8 @@
         <item>早晨天气变化较大，较不宜晨练，若坚持晨练，请适当减少晨练时间，注意保暖并携带雨具。 </item>
         <item>不宜</item>
         <item>早晨天气很差，请避免户外晨练，建议在室内做适当锻炼，保持身体健康。 </item>
-    </array>
-    <array name="weather_info_comfort">
+    </string-array>
+    <string-array name="weather_info_comfort">
         <item>暂缺</item>
         <item>现在暂时没有舒适度指数的详细信息，请稍后再查看。</item>
         <item>较舒适</item>
@@ -190,8 +190,8 @@
         <item>白天天气晴好，但温度不够适宜，您可能会感到不舒适。 </item>
         <item>很不舒适_阴</item>
         <item>白天虽然天气以阴为主，但由于天热，加上湿度较大，您会感到很闷热，很不舒适。 </item>
-   </array>
-    <array name="weather_info_wcar">
+   </string-array>
+    <string-array name="weather_info_wcar">
         <item>暂缺</item>
         <item>现在暂时没有洗车指数的详细信息，请稍后再查看。</item>
         <item>适宜</item>
@@ -208,8 +208,8 @@
         <item>不宜洗车，未来24小时内有雪，如果在此期间洗车，雪水和路上的泥水可能会再次弄脏您的爱车。</item>
         <item>不宜</item>
         <item>不宜洗车，未来24小时会有天气变化，如果在此期间洗车，可能会再次弄脏您的爱车。</item>
-    </array>
-    <array name="weather_info_hung">
+    </string-array>
+    <string-array name="weather_info_hung">
         <item>暂缺</item>
         <item>现在暂时没有晾晒指数的详细信息，请稍后再查看。</item>
         <item>基本适宜</item>
@@ -228,8 +228,8 @@
         <item>有降水，不适宜晾晒。如果非晾晒不可，请在室内准备出充足的空间。 </item>
         <item>不太适宜</item>
         <item>有降水，不适宜晾晒。如果非晾晒不可，请在室内准备出充足的空间。 </item>
-    </array>
-    <array name="weather_info_travel">
+    </string-array>
+    <string-array name="weather_info_travel">
         <item>暂缺</item>
         <item>现在暂时没有旅游指数的详细信息，请稍后再查看。</item>
         <item>很适宜</item>
@@ -244,13 +244,13 @@
         <item>天气变化很大，会给出行带来很多麻烦，建议还是多选择在室内活动！</item>
         <item>一般</item>
         <item>天气晴朗，万里无云，温度稍低，而且风稍微大，让你感觉有些冷，会对外出有一定影响，外出注意防风保暖。</item>
-    </array>
-    <array name="weather_info_fl">
+    </string-array>
+    <string-array name="weather_info_fl">
         <item></item>
         <item>今天风有点大，外出的话，请做好防护措施。</item>
         <item>微风</item>
         <item>微风拂面，感觉不错，建议适当地去户外放松一下。</item>
         <item>暂缺</item>
         <item>现在暂时没有风力指数的详细信息，请稍后再查看。</item>
-    </array>
+    </string-array>
 </resources>
