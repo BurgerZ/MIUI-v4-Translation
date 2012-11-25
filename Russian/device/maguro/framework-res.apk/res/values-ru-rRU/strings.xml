@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="BaMmi">Запрет вызовов</string>
   <string name="CLIRDefaultOffNextCallOff">Идентификация абонента по умолчанию не запрещена. След. вызов: разрешена</string>
   <string name="CLIRDefaultOffNextCallOn">Идентификация абонента по умолчанию не запрещена. След. вызов: запрещена</string>
@@ -281,6 +279,7 @@
   <string name="gigabyteShort">\u0020ГБ</string>
   <string name="global_action_lock">Блокировка экрана</string>
   <string name="global_action_power_off">Отключить питание</string>
+  <string name="global_action_restart">Перезагрузка</string>
   <string name="global_action_silent_mode_off_status">Включить</string>
   <string name="global_action_silent_mode_on_status">Выключить</string>
   <string name="global_action_toggle_silent_mode">Беззвучный режим</string>
