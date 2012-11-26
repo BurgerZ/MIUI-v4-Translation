@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="alert_message_delete_record">Удалить выбранную запись?</string>
   <string name="app_name">Диктофон</string>
   <string name="audio_db_album_name">Аудиозаписи</string>
@@ -9,7 +7,7 @@
   <string name="audio_db_playlist_name">Мои записи</string>
   <string name="audio_db_title_format">dd-MM-yyyy_HH:mm:ss</string>
   <string name="button_ok">ОК</string>
-  <string name="call_record">Запись звонка(%d)</string>
+  <string name="call_record">Запись вызова (%d)</string>
   <string name="call_record_or">или</string>
   <string name="default_record_name">запись без названия</string>
   <string name="delete_dialog_message">Вы уверены, что хотите удалить текущую запись?</string>
@@ -19,10 +17,10 @@
   <string name="dialog_warning">Внимание</string>
   <string name="error_app_internal">Внутренняя ошибка приложения</string>
   <string name="error_mediadb_new_record">Не удалось сохранить аудиозапись</string>
-  <string name="error_sdcard_access">Не удалось получить доступ к SD-карте</string>
+  <string name="error_sdcard_access">Не удалось получить доступ к SD карте</string>
   <string name="fm_record">Запись FM(%d)</string>
   <string name="hour">%d час.</string>
-  <string name="insert_sd_card">SD-карта недоступна!</string>
+  <string name="insert_sd_card">Вставьте SD карту</string>
   <string name="mark_now">(текущая)</string>
   <string name="max_length_reached">Достигнута максимальная длина</string>
   <string name="menu_setting">Настройки</string>
@@ -47,7 +45,7 @@
   <string name="record_list">Cписок записей</string>
   <string name="recording">Запись</string>
   <string name="recording_stopped">Запись остановлена</string>
-  <string name="sd_card_not_available">SD-карта недоступна</string>
+  <string name="sd_card_not_available">SD карта недоступна</string>
   <string name="second">%d сек.</string>
   <string name="storage_is_full">Память заполнена</string>
   <string formatted="false" name="timer_format">%02d:%02d</string>
