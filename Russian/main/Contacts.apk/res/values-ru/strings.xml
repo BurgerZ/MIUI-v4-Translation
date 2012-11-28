@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="account_default">Телефон</string>
   <string name="account_phone">Только телефон, без синхронизации</string>
   <string name="account_sim">Только SIM</string>
@@ -490,12 +488,12 @@
   <string name="preference_remove_duplicate">Объединить повторяющиеся</string>
   <string name="preference_select_account_display">Отображение аккаунта</string>
   <string name="preference_smart_group_company_summary">Группировка контактов по информации о компании</string>
-  <string name="preference_smart_group_company_title">По компаниям</string>
+  <string name="preference_smart_group_company_title">По организациям</string>
   <string name="preference_smart_group_frequency_summary">Группировка контактов по последним вызовам или SMS</string>
   <string name="preference_smart_group_frequency_title">По последним вызовам</string>
   <string name="preference_smart_group_location_summary">Группировка контактов по коду оператора</string>
-  <string name="preference_smart_group_location_title">По месторасположению</string>
-  <string name="preference_smart_group_title">Смарт-группировка</string>
+  <string name="preference_smart_group_location_title">По местоположению</string>
+  <string name="preference_smart_group_title"> Умная группировка</string>
   <string name="preview_contact_card_title">Импорт контакта</string>
   <string name="primary_indicator">(По умолчанию)</string>
   <string name="private_num">Скрытый номер</string>
@@ -567,15 +565,15 @@
   <string name="sim_indexed_contact_not_exist">Позиция %1$d на SIM-карте не допустима, следует выбрать между %2$d and %3$d</string>
   <string name="sim_no_contact">Нет контактов на SIM-карте</string>
   <string name="smart_group_action_bar_title">%1$s-%2$s</string>
-  <string name="smart_group_company_label">По компаниям</string>
+  <string name="smart_group_company_label">По организациям</string>
   <string name="smart_group_company_unavailable">Нет информации о контактах</string>
   <string name="smart_group_frequency_1">В течение месяца</string>
   <string name="smart_group_frequency_2">В течение 3 месяцев</string>
   <string name="smart_group_frequency_3">В течение 6 месяцев</string>
   <string name="smart_group_frequency_4">Более 6 месяцев</string>
   <string name="smart_group_frequency_label">По последним вызовам</string>
-  <string name="smart_group_label">Смарт-группировка</string>
-  <string name="smart_group_location_label">По месторасположению</string>
+  <string name="smart_group_label">Умная группировка</string>
+  <string name="smart_group_location_label">По местоположению</string>
   <string name="smart_group_location_unavailable">Нет информации об адресе</string>
   <string name="sms">Текстовое сообщение</string>
   <string name="sms_assistant">Отправить текстовое сообщение на номер %s</string>
@@ -585,21 +583,21 @@
   <string name="sms_custom">SMS (%s)</string>
   <string name="sms_disambig_title">Отправить SMS с помощью</string>
   <string name="sms_fax_home">SMS: дом. факс</string>
-  <string name="sms_fax_work">SMS:рабочий факс</string>
-  <string name="sms_home">SMS:домашний тел.</string>
+  <string name="sms_fax_work">SMS: рабочий факс</string>
+  <string name="sms_home">SMS: домашний тел.</string>
   <string name="sms_isdn">SMS: номер ISDN</string>
-  <string name="sms_main">SMS:основ. тел.</string>
+  <string name="sms_main">SMS: основ. тел.</string>
   <string name="sms_mms">MMS</string>
   <string name="sms_mobile">SMS: мобильный</string>
   <string name="sms_other">Отправить SMS</string>
   <string name="sms_other_fax">Отправить SMS·на номер факса</string>
   <string name="sms_pager">SMS: пейджер</string>
-  <string name="sms_radio">SMS:радиотелефон</string>
+  <string name="sms_radio">SMS: радиотелефон</string>
   <string name="sms_telex">SMS: телекс</string>
   <string name="sms_tty_tdd">SMS: телетайп</string>
-  <string name="sms_work">SMS:рабочий тел.</string>
-  <string name="sms_work_mobile">SMS:рабочий моб.</string>
-  <string name="sms_work_pager">SMS:рабоч. пейдж.</string>
+  <string name="sms_work">SMS: рабочий тел.</string>
+  <string name="sms_work_mobile">SMS: рабочий моб.</string>
+  <string name="sms_work_pager">SMS: рабоч. пейдж.</string>
   <string name="social_widget_label">Контакт</string>
   <string name="social_widget_loading">Загрузка…</string>
   <string name="splitConfirmation">Вы хотите разделить контакт?</string>
