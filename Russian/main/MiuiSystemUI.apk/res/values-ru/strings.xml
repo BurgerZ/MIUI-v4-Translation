@@ -205,7 +205,7 @@ d MMMM yyyy"</string>
   <string name="status_bar_ongoing_events_title">Постоянные</string>
   <string name="status_bar_please_disturb_button">Показать уведомления</string>
   <string name="status_bar_recent_clear_nothing_result">Нет памяти для очистки</string>
-  <string name="status_bar_recent_clear_result">"Освобождено: %1$s
+  <string name="status_bar_recent_clear_result">"Освобождено: %1$s \nТекущая свободная память: %2$s</string>
   <string name="status_bar_recent_guide_all">Потяните вверх для закрытия, вниз для блокировки</string>
   <string name="status_bar_recent_guide_bottom">Потяните вниз для блокировки</string>
   <string name="status_bar_recent_guide_top">Потяните вверх для закрытия</string>
@@ -219,7 +219,7 @@ d MMMM yyyy"</string>
   <string name="status_bar_settings_mute_label">Без звука</string>
   <string name="status_bar_settings_notifications">Уведомления</string>
   <string name="status_bar_settings_settings_button">Настройки</string>
-  <string name="status_bar_settings_signal_meter_disconnected">Нет подключения к Internet.</string>
+  <string name="status_bar_settings_signal_meter_disconnected">Нет подключения к Internet</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi подключен</string>
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_style_settings">Параметры панели</string>
@@ -286,10 +286,10 @@ d MMMM yyyy"</string>
   <string name="usb_ptp_text">Фотографии</string>
   <string name="usb_storage_error_message">Проблема с накопителем USB</string>
   <string name="usb_storage_message">Подключение к компьютеру через USB. Нажмите на кнопку ниже если вы хотите обмениваться файлами с компьютером и накопителем вашего Android устройства</string>
-  <string name="usb_storage_notification_message">Выберите, чтобы обмениваться файлами с компьютером.</string>
+  <string name="usb_storage_notification_message">Выберите, чтобы обмениваться файлами с компьютером</string>
   <string name="usb_storage_notification_title">USB подключено</string>
-  <string name="usb_storage_stop_message">Прежде чем отключить USB накопитель, убедитесь, что демонтировали Android USB накопитель с вашего компьютера.</string>
-  <string name="usb_storage_stop_notification_message">Выберите чтобы отключить USB накопитель.</string>
+  <string name="usb_storage_stop_message">Прежде чем отключить USB накопитель, убедитесь, что демонтировали Android USB накопитель с вашего компьютера</string>
+  <string name="usb_storage_stop_notification_message">Выберите чтобы отключить USB накопитель</string>
   <string name="usb_storage_stop_notification_title">Отключение USB накопителя</string>
   <string name="usb_storage_stop_title">USB накопитель используется</string>
   <string name="usb_storage_title">Подключение USB</string>
