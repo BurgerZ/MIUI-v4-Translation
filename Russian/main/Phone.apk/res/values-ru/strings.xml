@@ -260,8 +260,9 @@
   <string name="confirmPinLabel">Подвердите PIN</string>
   <string name="confirm_delete_message_title_miui">Сообщение будет удалено.</string>
   <string name="confirm_delete_sim_entry_miui">Удалить %d выбранных контактов с SIM карты?</string>
-  <string name="confirm_pin2_hint_miui">Подтвердите новый PIN2</string>
-  <string name="confirm_pin_hint_miui">Подтвердите новый PIN</string>
+  <string name="confirm_no_countrycode_for_custom_location_miui">Пожалуйста, введите номер без кода страны</string>
+  <string name="confirm_pin2_hint_miui">Подтверждение PIN2</string>
+  <string name="confirm_pin_hint_miui">Подтвердите новый PIN-код</string>
   <string name="connect_disconnect_vibrate_none_miui">Не вибрировать</string>
   <string name="connect_disconnect_vibrate_normal_miui">Вибрация</string>
   <string name="connect_disconnect_vibrate_summary_miui">Вибрировать при ответе/отбое</string>

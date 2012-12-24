@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="alert_edit_action_delete">Удалить</string>
   <string name="alert_edit_action_update">Изменить</string>
   <string name="alert_message_delete_folder">Вы уверены, что хотите удалить папку и её содержимое?</string>
@@ -10,8 +12,8 @@
   <string name="alert_title_delete">Удаление заметок</string>
   <string name="app_name">Заметки</string>
   <string name="app_widget">Заметки</string>
-  <string name="app_widget2x2">Заметки 2x2</string>
-  <string name="app_widget4x4">Заметки 4x4</string>
+  <string name="app_widget2x2">Заметки</string>
+  <string name="app_widget4x4">Заметки</string>
   <string name="attachment_camera">Камера</string>
   <string name="attachment_contact">Контакт</string>
   <string name="attachment_gallery">Галерея</string>
@@ -134,9 +136,9 @@
   <string name="ticker_fail">Ошибка синхронизации</string>
   <string name="ticker_success">Синхронизация завершена</string>
   <string name="ticker_syncing">Синхронизация заметок...</string>
-  <string name="time_picker_dialog_title">Время напоминания</string>
+  <string name="time_picker_dialog_title">Установка времени напоминания</string>
   <string name="toast_message_add_image_fail">Не удалось вставить изображение!</string>
   <string name="toast_message_replace_image_fail">Не удалось заменить изображение!</string>
-  <string name="widget_havenot_content">Нажмите чтобы создать заметку</string>
-  <string name="widget_under_visit_mode">При включенном режиме Гость заметки не отображаются</string>
+  <string name="widget_havenot_content">Нет заметок, нажмите сюда, чтобы создать заметку</string>
+  <string name="widget_under_visit_mode">Не возможно просмотреть заметки, потому что включен гостевой режим</string>
 </resources>

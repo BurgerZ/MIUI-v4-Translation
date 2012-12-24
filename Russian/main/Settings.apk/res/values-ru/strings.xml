@@ -592,8 +592,6 @@
   <string name="data_usage_restrict_background_title">Ограничение фонового режима</string>
   <string name="data_usage_restrict_denied_dialog">Ограничение фонового режима возможно только при лимитировании мобильного трафика.</string>
   <string name="data_usage_summary_title">Передача данных</string>
-  <string name="data_usage_sweep_limit" />
-  <string name="data_usage_sweep_warning" />
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -657,6 +655,7 @@
   <string name="device_info_settings">Состояние телефона</string>
   <string name="device_internal_data">Данные:</string>
   <string name="device_internal_memory">ROM:</string>
+  <string name="device_internal_partition">Данные/SD-карта:</string>
   <string name="device_memory">RAM:</string>
   <string name="device_miui_version">Версия MIUI:</string>
   <string name="device_picker">Выбор устройства Bluetooth</string>
@@ -788,7 +787,7 @@
   <string name="error_mcc_not3">Поле MCC должно содержать 3 цифры.</string>
   <string name="error_mnc_not23">Поле MNC должно содержать 2 или 3 цифры.</string>
   <string name="error_name_empty">Необходимо указать название.</string>
-  <string name="error_title" />
+  <string name="error_title">Предупреждение</string>
   <string name="external_code_size_label">Приложение SD карты</string>
   <string name="external_data_size_label">Данные SD карты</string>
   <string name="factory_reset_summary">Вы можете удалить личные данные либо удалить установленные программы и отформатировать SD карту, чтобы вернуться к заводским установкам</string>
@@ -807,7 +806,7 @@
   <string name="font_size_medium">Средний</string>
   <string name="font_size_normal">Нормальный</string>
   <string name="font_size_preview">MIUI</string>
-  <string name="font_size_preview_text">MIUI v4 RU Powered by BART</string>
+  <string name="font_size_preview_text">MIUI v4 RU Powered by jBART</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Маленький</string>
   <string name="font_size_summary">Настройка размера шрифта для таких приложений, как Телефон, СМС, Контакты и др., для увеличения удобства пользования и читабельности.</string>
@@ -835,7 +834,7 @@
   <string name="header_add_an_account">Добавьте аккаунт</string>
   <string name="header_application_sync_settings">Настройки синхронизации</string>
   <string name="header_category_device">УСТРОЙСТВО</string>
-  <string name="header_category_personal">ЛИЧНЫЕ ДАННЫЕ</string>
+  <string name="header_category_personal">ПЕРСОНАЛИЗАЦИЯ</string>
   <string name="header_category_system">СИСТЕМА</string>
   <string name="header_category_wireless_networks">БЕСПРОВОДНЫЕ СЕТИ</string>
   <string name="header_data_and_synchronization">Cинхронизация данных</string>
@@ -864,12 +863,8 @@
   <string name="input_method">Способ ввода</string>
   <string name="input_method_selector">Выбор способа ввода</string>
   <string name="input_method_selector_always_hide_title">Всегда скрывать</string>
-  <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Всегда показывать</string>
-  <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_show_automatically_title">Автоматически</string>
-  <string name="input_method_selector_show_automatically_value">0</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Настройки</string>
   <string name="input_method_settings_button">Настройки</string>
   <string name="input_methods_and_subtype_enabler_title">Выберите активные способы ввода</string>
@@ -921,13 +916,13 @@
   <string name="last_synced">Последняя синхронизация %1$s</string>
   <string name="launch_count_label">Подсчет</string>
   <string name="launcher_settings_title">Рабочий стол</string>
-  <string name="led_colors_summary">Цвет LED уведомления</string>
-  <string name="led_frequence_summary">Установите интервал между вспышками</string>
+  <string name="led_colors_summary">Цвет уведомлений</string>
+  <string name="led_frequence_summary">Установите интервал между миганием</string>
   <string name="led_pulse_summary">Мигать светодиодом при новых уведомлениях</string>
-  <string name="led_settings">LED</string>
+  <string name="led_settings">Индикация</string>
   <string name="legal_information">Правовая информация</string>
   <string name="license_title">Лицензия</string>
-  <string name="link_speed_label">Link speed:</string>
+  <string name="link_speed_label">"Скорость: "</string>
   <string name="local_backup_password_summary_change">Выберите этот параметр, чтобы изменить или удалить пароль для резервного копирования</string>
   <string name="local_backup_password_summary_none">Полные резервные копии в настоящее время не защищены.</string>
   <string name="local_backup_password_title">Пароль для резервного копирования</string>
@@ -1013,7 +1008,7 @@
   <string name="lockpattern_tutorial_continue_label">Далее</string>
   <string name="lte_ram_dump_off">Не очищать ОЗУ</string>
   <string name="lte_ram_dump_on">Очищать ОЗУ</string>
-  <string name="macaddr_label">MAC addr:</string>
+  <string name="macaddr_label">"MAC адрес: "</string>
   <string name="main_running_process_description">Основной используемый процесс.</string>
   <string name="manage_device_admin">Администраторы устройства</string>
   <string name="manage_device_admin_summary">Просмотрите или отключите администраторов устройств</string>
@@ -1335,12 +1330,16 @@
   <string name="runningservices_settings_summary">Просмотр и управление работающими приложениями</string>
   <string name="runningservices_settings_title">Работающие приложения</string>
   <string name="scan_list_label">Scan results:</string>
+  <string name="screen">Экран</string>
   <string name="screen_button_custom">Настройка расположения кнопок</string>
   <string name="screen_button_key">Виртуальные кнопки</string>
+  <string name="screen_color_adjust">Настройка цветов</string>
+  <string name="screen_color_temperature_adjust">Настройка цветовой температуры</string>
   <string name="screen_compatibility_label">Совместимость с экраном</string>
   <string name="screen_compatibility_text">Возможно, приложение не предназначено для вашего экрана. Здесь можно настроить параметры его отображения.</string>
   <string name="screen_on_proximity_sensor_summary">Предотвращение ошибок пока телефон находится в кармане (определяется с помощью датчика приближения).</string>
   <string name="screen_on_proximity_sensor_title">Предотвращение ошибок</string>
+  <string name="screen_saturation_adjust">Настройка насыщенности цвета</string>
   <string name="screen_timeout">Спящий режим</string>
   <string name="screen_timeout_summary">После %1$s бездействия</string>
   <string name="screen_timeout_title">Отключение экрана</string>
@@ -1349,7 +1348,7 @@
   <string name="screensaver_settings_summary_off">Отключено</string>
   <string name="screensaver_settings_summary_on">Запускается в режиме сна, если телефон подключен к питанию</string>
   <string name="screensaver_settings_title">Экранные заставки</string>
-  <string name="screensaver_test">Попробуйте!</string>
+  <string name="screensaver_test">Попробовать</string>
   <string name="screensaver_timeout_summary">После простоя (%1$s)</string>
   <string name="screensaver_timeout_title">Время до активации</string>
   <string name="screensaver_timeout_zero_summary">Никогда</string>
@@ -1565,6 +1564,10 @@
   <string name="storageuse_settings_title">Использование памяти</string>
   <string name="strict_mode">Включен строгий режим</string>
   <string name="strict_mode_summary">Подсвечивать экран во время длительных операций</string>
+  <string name="subscription_01_summary">Настройка параметров для настройки сети SUB1</string>
+  <string name="subscription_01_title">SUB 1</string>
+  <string name="subscription_02_summary">Настройка параметров для настройки сети SUB2</string>
+  <string name="subscription_02_title">SUB 2</string>
   <string name="sum_carrier_select">Выберите оператора связи</string>
   <string name="summary_font_size">%1$s</string>
   <string name="supplicant_state_label">Состояние:</string>
@@ -1588,7 +1591,8 @@
 Технология Google синхронизации данных позволяет получать данные о контактах, встречах и многом другом с любого устройства"</string>
   <string name="sync_settings">Аккаунты и синхронизация</string>
   <string name="sync_wifi_label">Настройки синхр. Wi-Fi</string>
-  <string name="system_package">Системные обновления нельзя установить на внешнем носителе.</string>
+  <string name="system">Система</string>
+  <string name="system_package">Системные обновления нельзя установить на внешнем носителе</string>
   <string name="system_update_settings_list_item_summary" />
   <string name="system_update_settings_list_item_title">Обновления системы</string>
   <string name="terms_title">Условия использования</string>
@@ -1908,9 +1912,7 @@
   <string name="wifi_disabled_network_failure">Включено</string>
   <string name="wifi_disabled_password_failure">Ошибка аутентификации</string>
   <string name="wifi_dns1">DNS 1</string>
-  <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
-  <string name="wifi_dns2_hint">4.4.4.4</string>
   <string name="wifi_eap_anonymous">Неизвестный</string>
   <string name="wifi_eap_ca_cert">Сертификат центра сертификации</string>
   <string name="wifi_eap_identity">Пользователь</string>
@@ -1918,6 +1920,7 @@
   <string name="wifi_eap_user_cert">Сертификат пользователя</string>
   <string name="wifi_empty_list_wifi_off">Чтобы просмотреть доступные сети, включите WLAN.</string>
   <string name="wifi_empty_list_wifi_on">Поиск Wi-Fi сетей…</string>
+  <string name="wifi_enable_watchdog_service">Фильтр сетей WLAN</string>
   <string name="wifi_enable_watchdog_service_summary">"Не использовать сети WLAN с плохим интернет-соединением"</string>
   <string name="wifi_error">Ошибка</string>
   <string name="wifi_fail_to_scan">Не удалось начать поиск сетей.</string>
@@ -1943,7 +1946,7 @@
   <string name="wifi_menu_modify">Изменить сеть</string>
   <string name="wifi_menu_p2p">WLAN Direct</string>
   <string name="wifi_menu_scan">Поиск</string>
-  <string name="wifi_menu_wfd">WLAN Display</string>
+  <string name="wifi_menu_wfd">WLAN Дисплей</string>
   <string name="wifi_menu_wps_pbc">WPS Push</string>
   <string name="wifi_menu_wps_pin">WPS Pin</string>
   <string name="wifi_more">Больше</string>

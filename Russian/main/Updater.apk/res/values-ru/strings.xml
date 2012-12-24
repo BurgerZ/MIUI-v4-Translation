@@ -44,6 +44,7 @@
   <string name="emegency_build">Сборка:</string>
   <string name="emegency_update_helper">После установки исправления для системы может потребоваться перезагрузка телефона</string>
   <string name="emegency_update_size">Размер:%s</string>
+  <string name="emegency_version">Обновление</string>
   <string name="exception_while_downloading">Произошла ошибка при загрузке обновления</string>
   <string name="expect">4.Ожидания</string>
   <string name="file_not_found_error_message">Файл не существует или к нему нет доступа, попробуйте еще раз</string>
@@ -56,12 +57,11 @@
   <string name="install_rom_from_sd">Выбрать файл прошивки</string>
   <string name="install_sina">Установить Sina weibo</string>
   <string name="install_whole_rom">Рекомендуется скачать полную прошивку</string>
-  <string name="kernel_upgrade_link" />
-  <string name="kernel_upgrade_version" />
   <string name="loading">Загрузка MIUI</string>
   <string name="md5_check_cancelled">MD5 проверка прервана</string>
   <string name="mione_update_fail_description">Пожалуйста, обновите снова</string>
   <string name="mione_update_fail_title">Не удалось обновить</string>
+  <string name="mione_update_success_description">MI-ONE обновлен</string>
   <string name="mione_update_success_title">Обновление завершено</string>
   <string name="monthly_build">Ежемесячная сборка</string>
   <string name="move_data_to_sdcard_not_enough_space_message">%dM данных необходимо перенести, но на данный момент нет свободного места для SD-карте.</string>
@@ -86,11 +86,16 @@
   <string name="no_updates_warning">Нет обновлений</string>
   <string name="no_updates_warning2">Как только будет доступно обновление, вы будете уведомлены</string>
   <string name="not_recommend">Не рекомендую</string>
+  <string name="page_error">Нет доступа к MIUI из-за проблем с GPRS/3G или недоступности сервера</string>
+  <string name="page_error_title">Нет доступа</string>
+  <string name="page_reload">Повторить</string>
+  <string name="paused_queued_for_network">Ожидание подключения</string>
+  <string name="paused_queued_for_wifi">Ожидание подключения WLAN</string>
   <string name="previous">Назад</string>
   <string name="reboot_to_new_system">Перезагрузка в новую систему</string>
   <string name="recommend">Рекомендую</string>
   <string name="recommend_comment_hint">Причина (необязательно)</string>
-  <string name="recommend_vote_title">MIUI BETA TEAM голосование</string>
+  <string name="recommend_vote_title">Опрос MIUI BETA TEAM</string>
   <string name="refuse_recommend_reason">Пожалуйста, введите причину</string>
   <string name="sdcard_has_no_space_dialog_body">Нет места на SD-карте, пожалуйста очистите</string>
   <string name="sdcard_has_no_space_dialog_title">Нет места на SD-карте</string>
@@ -116,6 +121,7 @@
   <string name="submit_fail">Ошибка отправки</string>
   <string name="submit_progress">Отправка...</string>
   <string name="submit_success">Отправлено успешно, спасибо!</string>
+  <string name="switch_system">Перезагрузиться</string>
   <string name="system_backup_button_text">Резервное копирование системы</string>
   <string name="system_backup_cancel_text">Обновить систему</string>
   <string name="system_backup_error_message">Резервные копии MIUI не найдены, сделайте резервирование вручную</string>
