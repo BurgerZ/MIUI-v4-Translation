@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>-->
+<resources>
+    <string-array name="cpu_zram_size_entries">
+        <item>Отключить</item>
+        <item>10%</item>
+        <item>18%</item>
+        <item>26%</item>
+    </string-array>
+    <string-array name="cpu_zram_size_values">
+        <item>0</item>
+        <item>10</item>
+        <item>18</item>
+        <item>26</item>
+    </string-array>
+    <string-array name="entries_animations">
+        <item>Выкл</item>
+        <item>Быстро</item>
+        <item>Нормально</item>
+        <item>Медленно</item>
+        <item>Медленнее</item>
+        <item>Очень медленно</item>
+        <item>Совсем медленно</item>
+    </string-array>
+    <string-array name="entryvalues_animations">
+        <item>0.0</item>
+        <item>0.5</item>
+        <item>1.0</item>
+        <item>1.5</item>
+        <item>2.0</item>
+        <item>5.0</item>
+        <item>10.0</item>
+    </string-array>
+    <string-array name="entries_overscroll_type">
+        <item>Нет</item>
+        <item>Свечение</item>
+        <item>Отскок</item>
+        <item>Отскок &amp; Свечение</item>
+    </string-array>
+    <string-array name="entryvalues_overscroll_type">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="entries_overscroll_weight">
+        <item>Очень Сильно</item>
+        <item>Сильно</item>
+        <item>Средне</item>
+        <item>Слабо</item>
+        <item>Очень слабо</item>
+    </string-array>
+    <string-array name="entryvalues_overscroll_weight">
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="entries_status_styles">
+        <item>Часы в центре</item>
+        <item>Стандартно</item>
+        <item>Зеркально</item>
+    </string-array>
+    <string-array name="entryvalues_status_styles">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
