@@ -2005,7 +2005,7 @@
   <string name="wifi_setting_frequency_band_summary">Укажите рабочий диапазон частот</string>
   <string name="wifi_setting_frequency_band_title">Диапазон частот WLAN</string>
   <string name="wifi_setting_sleep_policy_error">Не удалось изменить этот параметр</string>
-  <string name="wifi_setting_sleep_policy_title">WLAN в спящем режиме</string>
+  <string name="wifi_setting_sleep_policy_title">WLAN в спящем режиме включён</string>
   <string name="wifi_settings">WLAN</string>
   <string name="wifi_settings_category">Настройки WLAN</string>
   <string name="wifi_settings_summary">Настройка и управление точками доступа беспроводной сети</string>
