@@ -86,9 +86,9 @@
   <string name="set_alarm">Установить будильник</string>
   <string name="settings">Настройки</string>
   <string name="show_clock">Показать часы</string>
-  <string name="shutdown_alarm_disable_summary">Принудительный режим отключен</string>
-  <string name="shutdown_alarm_enable_summary">Принудительный режим включен</string>
-  <string name="shutdown_alarm_title">Принудительный режим</string>
+  <string name="shutdown_alarm_disable_summary">Выключен</string>
+  <string name="shutdown_alarm_enable_summary">Включён (телефон включится автоматически!)</string>
+  <string name="shutdown_alarm_title">Будильник при выключении</string>
   <string name="silent_alarm_summary">Без звука</string>
   <string name="slide_down_delelte_alarm">Сдвиньте вниз для отмены</string>
   <string name="snooze_confirm_cancel">Выключить</string>
